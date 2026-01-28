@@ -1,0 +1,374 @@
+================================================================================
+MASTER STRUCTURE PLAN
+Survey Paper: Intelligent Process Control in 3D Concrete Printing
+From Extrusion to Finishing
+================================================================================
+
+Last Updated: 2026-01-26
+Total References: 117 papers (2020-2026)
+Target Journal: [To be determined]
+
+================================================================================
+PAPER OVERVIEW & MOTIVATION
+================================================================================
+
+This survey provides a comprehensive review of intelligent process control 
+technologies in 3D Concrete Printing (3DCP), spanning from material extrusion 
+to surface finishing. The paper systematically examines:
+
+  - Hardware systems and robotic platforms for 3DCP
+  - Process parameters affecting print quality
+  - Sensing and monitoring technologies
+  - AI-based diagnosis and path planning
+  - Closed-loop feedback control systems
+  - Automated surface finishing techniques
+
+The key contribution is presenting an integrated view of how these technologies
+work together to enable autonomous, high-quality 3D concrete printing.
+
+================================================================================
+COMPLETE PAPER STRUCTURE
+================================================================================
+
+1. Introduction & Background (7 papers)
+   └── 1.1 Overview of 3D Concrete Printing
+       └── 1.1.1 3DCP Overview & Trends
+
+2. Hardware & Process Fundamentals (22 papers)
+   ├── 2.1 Hardware Systems & Kinematics (12 papers)
+   │   ├── 2.1.1 Cable-Driven & Parallel Robots
+   │   ├── 2.1.2 Mobile & Autonomous Robots
+   │   └── 2.1.3 Manipulators & Kinematics
+   │
+   └── 2.2 Process Parameters & Rheology (10 papers)
+       ├── 2.2.1 Rheology & Flow Properties
+       ├── 2.2.2 Printability & Buildability
+       ├── 2.2.3 Layer & Interlayer Properties
+       └── 2.2.4 Mix Design & Material Formulation
+
+3. Intelligent Sensing Technologies (6 papers)
+   └── 3.1 Sensing & Monitoring Systems
+       ├── 3.1.1 Vision & Camera Systems
+       └── 3.1.2 Digital Twin & Virtual Monitoring
+
+4. AI-based Intelligence & Planning (46 papers)
+   ├── 4.1 AI-based Defect Diagnosis (17 papers)
+   │   ├── 4.1.1 Deep Learning & Neural Networks
+   │   ├── 4.1.2 Machine Learning Methods
+   │   ├── 4.1.3 Defect Detection & Classification
+   │   └── 4.1.4 Predictive Modeling & Diagnosis
+   │
+   └── 4.2 Intelligent Path Planning & Slicing (29 papers)
+       ├── 4.2.1 Toolpath Generation & G-code
+       ├── 4.2.2 Non-planar & 3D Toolpaths
+       ├── 4.2.3 Trajectory Optimization
+       └── 4.2.4 Geometric & Structural Design
+
+5. Closed-loop Control & Finishing (36 papers)
+   ├── 5.1 Real-time Feedback Control (9 papers)
+   │   ├── 5.1.1 Closed-loop Process Control
+   │   ├── 5.1.2 Extrusion & Flow Control
+   │   ├── 5.1.3 Real-time Adaptation & Compensation
+   │   └── 5.1.4 Quality Assurance & Inline Inspection
+   │
+   └── 5.2 Automated Surface Finishing (27 papers)
+       ├── 5.2.1 Shotcrete 3D Printing (SC3DP)
+       ├── 5.2.2 Surface Finishing & Troweling
+       └── 5.2.3 Hybrid Manufacturing & Integration
+
+6. Conclusion
+   └── 6.1 Summary & Future Directions
+
+================================================================================
+SECTION-BY-SECTION GUIDE
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: INTRODUCTION & BACKGROUND
+--------------------------------------------------------------------------------
+Purpose: Set the stage for the survey, establish motivation and scope.
+
+Key Points to Cover:
+  - The rise of 3DCP in construction industry
+  - Benefits: reduced labor, design freedom, sustainability
+  - Challenges: quality control, automation, scalability
+  - The need for intelligent process control
+  - Paper scope and contribution statement
+
+Writing Style: Broad perspective, accessible to readers new to 3DCP.
+
+Connection to Other Sections:
+  → Leads into Section 2 (fundamental hardware and process knowledge)
+  → Motivates the need for Sections 3-5 (intelligent technologies)
+
+--------------------------------------------------------------------------------
+SECTION 2: HARDWARE & PROCESS FUNDAMENTALS
+--------------------------------------------------------------------------------
+Purpose: Establish the physical foundation - what hardware exists and what 
+         process parameters affect printing quality.
+
+--- 2.1 Hardware Systems & Kinematics ---
+
+Focus: Robotic platforms and their characteristics for 3DCP.
+
+2.1.1 Cable-Driven & Parallel Robots
+  - CDPRs for large workspace coverage
+  - Tension-based systems
+  - Advantages: large scale, lightweight
+
+2.1.2 Mobile & Autonomous Robots
+  - Mobile platforms for unlimited workspace
+  - Swarm robotics for parallel construction
+  - Drones for aerial additive manufacturing
+
+2.1.3 Manipulators & Kinematics
+  - Industrial robot arms (6-axis)
+  - Gantry systems
+  - Kinematics and motion control
+
+--- 2.2 Process Parameters & Rheology ---
+
+Focus: Material behavior and printing parameters.
+
+2.2.1 Rheology & Flow Properties
+  - Yield stress, viscosity, thixotropy
+  - Flow behavior during pumping and extrusion
+
+2.2.2 Printability & Buildability
+  - Shape retention after deposition
+  - Layer stability under self-weight
+
+2.2.3 Layer & Interlayer Properties
+  - Bond strength between layers
+  - Cold joint prevention
+
+2.2.4 Mix Design & Material Formulation
+  - Admixtures and additives
+  - Fiber reinforcement
+
+Connection to Other Sections:
+  ← Section 1 provides motivation
+  → Section 3 discusses how to monitor these parameters
+  → Section 4 uses AI to optimize these parameters
+  → Section 5 controls these parameters in real-time
+
+--------------------------------------------------------------------------------
+SECTION 3: INTELLIGENT SENSING TECHNOLOGIES
+--------------------------------------------------------------------------------
+Purpose: Review sensing modalities for monitoring the printing process.
+
+This section bridges hardware (Section 2) and intelligence (Section 4).
+Sensors provide the data needed for AI-based analysis and feedback control.
+
+--- 3.1 Sensing & Monitoring Systems ---
+
+3.1.1 Vision & Camera Systems
+  - RGB cameras for visual inspection
+  - Depth cameras (RGB-D) for geometry
+  - Real-time image processing
+
+3.1.2 Digital Twin & Virtual Monitoring
+  - Simulation-based process monitoring
+  - IoT integration for data collection
+  - Industry 4.0 frameworks
+
+Connection to Other Sections:
+  ← Section 2 defines what parameters to sense
+  → Section 4.1 processes sensor data with AI
+  → Section 5.1 uses sensor data for feedback control
+
+--------------------------------------------------------------------------------
+SECTION 4: AI-BASED INTELLIGENCE & PLANNING
+--------------------------------------------------------------------------------
+Purpose: Review AI/ML techniques for diagnosis and planning in 3DCP.
+
+This is the "brain" of intelligent 3DCP - processing sensor data and making 
+intelligent decisions about toolpath and process parameters.
+
+--- 4.1 AI-based Defect Diagnosis ---
+
+Focus: Using AI to detect and classify printing defects.
+
+4.1.1 Deep Learning & Neural Networks
+  - CNNs for image-based defect detection
+  - Transformers and advanced architectures
+
+4.1.2 Machine Learning Methods
+  - SVM, Random Forest for classification
+  - Traditional ML approaches
+
+4.1.3 Defect Detection & Classification
+  - Types of defects: voids, cracks, surface defects
+  - Automated inspection systems
+
+4.1.4 Predictive Modeling & Diagnosis
+  - Predicting print quality from parameters
+  - Process-property relationships
+
+--- 4.2 Intelligent Path Planning & Slicing ---
+
+Focus: Generating optimal toolpaths for 3DCP.
+
+4.2.1 Toolpath Generation & G-code
+  - Slicing algorithms for 3DCP
+  - G-code generation and optimization
+
+4.2.2 Non-planar & 3D Toolpaths
+  - Curved layer printing
+  - Conformal slicing for complex geometries
+
+4.2.3 Trajectory Optimization
+  - Minimizing print time and energy
+  - Smooth motion planning
+
+4.2.4 Geometric & Structural Design
+  - Topology optimization for 3DCP
+  - Design for additive manufacturing
+
+Connection to Other Sections:
+  ← Section 3 provides sensor data for diagnosis
+  ← Section 2 defines constraints (hardware, materials)
+  → Section 5.1 implements AI recommendations via control
+  → Section 5.2 path planning affects surface finish
+
+--------------------------------------------------------------------------------
+SECTION 5: CLOSED-LOOP CONTROL & FINISHING
+--------------------------------------------------------------------------------
+Purpose: Review feedback control systems and surface finishing techniques.
+
+This section represents the "action" phase - taking decisions from Section 4
+and implementing them through control systems and post-processing.
+
+--- 5.1 Real-time Feedback Control ---
+
+Focus: Closed-loop control for process quality.
+
+5.1.1 Closed-loop Process Control
+  - PID and advanced controllers
+  - Model Predictive Control (MPC)
+
+5.1.2 Extrusion & Flow Control
+  - Pump control for consistent flow
+  - Pressure regulation
+
+5.1.3 Real-time Adaptation & Compensation
+  - Adaptive control for varying conditions
+  - Geometry compensation
+
+5.1.4 Quality Assurance & Inline Inspection
+  - In-process quality verification
+  - Tolerance checking
+
+--- 5.2 Automated Surface Finishing ---
+
+Focus: Post-processing and surface quality improvement.
+
+5.2.1 Shotcrete 3D Printing (SC3DP)
+  - Spray-based deposition
+  - High surface quality through projection
+
+5.2.2 Surface Finishing & Troweling
+  - Automated troweling systems
+  - Surface smoothing techniques
+
+5.2.3 Hybrid Manufacturing & Integration
+  - Combining additive and subtractive
+  - Integrated reinforcement systems
+
+Connection to Other Sections:
+  ← Section 3 provides sensor feedback
+  ← Section 4 provides AI-based decisions
+  ← Section 2 defines process constraints
+  → Section 6 summarizes achievements and gaps
+
+--------------------------------------------------------------------------------
+SECTION 6: CONCLUSION
+--------------------------------------------------------------------------------
+Purpose: Summarize findings and identify future research directions.
+
+Key Points to Cover:
+  - Summary of current state-of-the-art
+  - Key enabling technologies identified
+  - Current gaps and limitations
+  - Future research directions:
+    * Full automation and autonomy
+    * Multi-robot coordination
+    * AI-driven adaptive control
+    * Integration of all systems
+  - Outlook for industry adoption
+
+================================================================================
+WRITING GUIDELINES FOR EACH SUB-SUB SECTION
+================================================================================
+
+When writing each sub-sub section (e.g., 4.1.2):
+
+1. START with context:
+   "Within the broader scope of [parent section purpose], this subsection 
+   focuses on [specific topic]..."
+
+2. STRUCTURE the content:
+   - Definition and importance
+   - Key methods/techniques (from assigned papers)
+   - Comparison of approaches
+   - Current limitations
+   - Connection to other subsections
+
+3. CITE papers appropriately:
+   - Use the papers assigned to this subsection
+   - Cross-reference related papers from other sections when relevant
+
+4. END with transition:
+   - How this subsection connects to the next
+   - Or how it contributes to the section's overall narrative
+
+================================================================================
+NARRATIVE FLOW
+================================================================================
+
+The paper follows a logical flow from FOUNDATION to APPLICATION:
+
+  [1. Introduction]
+        │
+        ▼ "What is 3DCP and why does it need intelligent control?"
+        │
+  [2. Hardware & Process]
+        │
+        ▼ "What are the physical systems and parameters?"
+        │
+  [3. Sensing]
+        │
+        ▼ "How do we monitor the process?"
+        │
+  [4. AI & Planning]
+        │
+        ▼ "How do we analyze data and make decisions?"
+        │
+  [5. Control & Finishing]
+        │
+        ▼ "How do we implement control and achieve quality?"
+        │
+  [6. Conclusion]
+        │
+        ▼ "Where are we now and where are we going?"
+
+================================================================================
+KEY TERMINOLOGY
+================================================================================
+
+3DCP    : 3D Concrete Printing
+SC3DP   : Shotcrete 3D Printing
+CDPR    : Cable-Driven Parallel Robot
+AM      : Additive Manufacturing
+DfAM    : Design for Additive Manufacturing
+FDM     : Fused Deposition Modeling
+MPC     : Model Predictive Control
+PID     : Proportional-Integral-Derivative (control)
+CNN     : Convolutional Neural Network
+BIM     : Building Information Modeling
+IoT     : Internet of Things
+QA/QC   : Quality Assurance / Quality Control
+
+================================================================================
+END OF MASTER STRUCTURE PLAN
+================================================================================

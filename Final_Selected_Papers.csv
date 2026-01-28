@@ -1,0 +1,599 @@
+﻿Section,Title,Authors,Year,Cites,Source_File
+2.1,Life cycle assessment of integrated additive–subtractive concrete 3D printing,"I Muñoz, J Alonso-Madrid, M Menéndez-Muñiz…",2021,86,group C.csv
+2.1,Continuous mobile thin-layer on-site printing,"SE Jenny, LL Pietrasik, E Sounigo, PH Tsai…",2023,27,group C.csv
+2.1,Advancing construction in existing contexts: Prospects and barriers of 3d printing with mobile robots for building maintenance and repair,"K Dörfler, G Dielemans, S Leutenegger…",2024,25,group C.csv
+2.1,A comprehensive performance evaluation of different mobile manipulators used as displaceable 3D printers of building elements for the construction industry,"RG Rivera, RG Alvarado, A Martinez-Rocamora…",2020,24,group B.csv
+2.1,A continuous model for the simulation of manufacturing swarm robotics,F Auricchio,2022,9,group C.csv
+2.1,The business case for 3D printing in the built environment,"PL Rosendahl, A Wolf",2022,3,group C.csv
+2.1,Accuracy of large-scale cable-driven parallel robot with universal joint pulleys,"T Paty, N Binaud, F Bugarin, S Segonds",2021,2,group C.csv
+2.1,Energy Consumption Modeling for a Robot Arm in 3D Concrete Printing,"T Liu, FT Song Du, Y Weng",2025,0,group C.csv
+2.1,"6-DOF Outdoor High-Load Robot for Solar Panel Array Installation: Deformation Compensation, Inverse Kinematics and Decoupling Control","S Li, X Yang",2025,0,group C.csv
+2.1,Sequencing Automated Multi-Agent Wall Construction-UAV Case Scenario,B Elkhapery,2023,0,group C.csv
+2.1,Fusion reactor manipulator coupling error analysis and virtual-real interaction control,"C Zuo, P Zhou, F Wang, G Qin, S Liu, X Qin…",2026,0,group C.csv
+2.1,Developing a hybrid actuated cable-driven parallel manipulator using a compact tape rod actuator,PW Sanford,2025,0,group C.csv
+2.1,A new agile driving module for cable manipulators,"SAA Moosavian, SSS HasanAbadi…",2025,0,group C.csv
+2.2,"Influence of hydroxypropyl methylcellulose and silica fume on stability, rheological properties, and printability of 3D printing foam concrete","C Liu, X Wang, Y Chen, C Zhang, L Ma, Z Deng…",2021,246,group B.csv
+2.2,3D printing of clay for decorative architectural applications: Effect of solids volume fraction on rheology and printability,"SSL Chan, RM Pennings, L Edwards, GV Franks",2020,177,group C.csv
+2.2,Robotic on-site adaptive thin-layer printing: Challenges and workflow for design and fabrication of bespoke cementitious plasterwork at full architectural scale,"S Ercan Jenny, D Mitterberger, E Lloret-Fritschi…",2023,10,group A.csv
+2.2,In-Situ vs. Prefab 3D Printing Considerations for CO2-free Pop-up Architecture,"A Aslaminezhad, A Hidding, H Bier, G Calabrese",2024,1,group B.csv
+2.2,Autonomous Maintenance of Highway Pavements: A Framework Aiming toward Implementation,"D Palin, S Schaefer, AM d'Avigneau, J Xu…",2026,0,group A.csv
+2.2,Evaluation of Materials and Additives on the Printability and Buildability of Mortars for 3D Printing,"PHC Drumond, LB Soares, JVF Altoé, CS Altoé…",2025,0,group B.csv
+2.2,"Influence of Process Parameters on the Mechanical Performance of 3D Printed ABS: A Comparative Study of Experimental, Numerical, and Statistical Analysis",MZH Bhuiyan,2025,0,group B.csv
+3,"Digital light processing based multimaterial 3D printing: challenges, solutions and perspectives","J Cheng, S Yu, R Wang, Q Ge",2024,96,group C.csv
+3,"Frontiers in construction 3D printing: self-monitoring, multi-robot, drone-assisted processes","S Li, T Lan, HX Nguyen, P Tran",2025,18,group A.csv
+3,Geometrical quality inspection in 3D concrete printing using AI-assisted computer vision,"W Cui, W Liu, R Guo, D Wan, X Yu, L Ding…",2025,12,group A.csv
+3,Mass Customisation Strategies in Additive Manufacturing: A Systematic Review and Implementation Framework,"SK Fianko, TC Dzogbewu, E Agbamava, DJ de Beer",2025,11,group A.csv
+3,… review on integrating vision-based sensing in extrusion-based 3D printing processes: toward geometric monitoring of extrusion-based 3D concrete printing,"P Farrokhsiar, B Gursoy, JP Duarte",2024,6,group A.csv
+3,"Vision-based sensing and digital twin technologies in conformal 3D concrete printing: exploring operational accuracy, adaptability, and scalability, and …","ÖB Çapunaman, P Farrokhsiar, SG Bilén…",2025,5,group C.csv
+3,In-situ monitoring and process control in material extrusion additive manufacturing: a comprehensive review,"A Isiani, K Crittenden, L Weiss, O Odirachukwu…",2025,4,group A.csv
+3,Evaluating Contributions of Emerging Technologies to Civil Infrastructure System Resilience. II: Case Studies,"K Soga, ZQ Chen, PG Hubbard, C Ford…",2025,4,group A.csv
+3,A Deep Reinforcement Learning Algorithm for Robotic Manipulation Tasks in Simulated Environments,"C Calderon-Cordova, R Sarango",2023,3,group C.csv
+3,Practical insights and advances in concrete pumping,"D Mikhalev, SF Nejad, S Ng, B Bose…",2024,2,group A.csv
+3,Research Progress on Quality Control Method of Concrete 3D Printing Based on Computer Vision,"W Liu, D Ji, W Cui, X Shi, C Liu, Y Tao",2024,1,group A.csv
+3,"The Integration of 3d Printing, Artificial Intelligence and Internet of Things for Construction of Sustainable Smart Homes","AI Shema, AU Ibrahim, C Atakara…",2022,1,group A.csv
+3,Geometric inspection in 3D concrete manufacturing: Comparison of data capturing techniques,"M Maboudi, K Mawas, M Gerke",2025,1,group B.csv
+3,Bayesian model updating for predictive digital twins under model form uncertainty,JF Unger,2025,0,group A.csv
+3,Establishing a conceptual framework for Construction Quality 4.0 (CONQ4. 0),"S Gao, Y Fang",2026,0,group A.csv
+3,The “New” Materiality of Reconstruction: On-Site Automated Recycling of Rubble Aggregates for Rebuilding Earthquake-Stricken Villages,"R Ruggiero, PL Cocco, R Cognoli",2026,0,group A.csv
+3,Real-time construction safety monitoring using a drone based deep hybrid attention model,"K Sujit, K Indhumathi, G Mohan, NN Jose, K Ramudu…",2025,0,group A.csv
+3,Additive Manufacturing: A Vision of Industrial Revolution,OO Adewumi,2024,0,group C.csv
+4.1,A strategic roadmap for the manufacturing industry to implement industry 4.0,J Butt,2020,209,group A.csv
+4.1,Emerging cementitious composites for 3D printed interiors and exteriors: A materials innovation review,"AO Bankole, ZS Nwokediegwu…",2020,79,group A.csv
+4.1,Integrating real-time multi-resolution scanning and machine learning for Conformal Robotic 3D Printing in Architecture,"P Nicholas, G Rossi, E Williams…",2020,69,group C.csv
+4.1,"Concrete 3D printing: Process parameters for process control, monitoring and diagnosis in automation and construction","TKN Quah, YWD Tay, JH Lim, MJ Tan, TN Wong…",2023,57,group A.csv
+4.1,Inspection methods for 3D concrete printing,"R Buswell, P Kinnell, J Xu, N Hack, H Kloft…",2020,56,group A.csv
+4.1,Machine learning in additive manufacturing: A comprehensive insight.,"A Equbal, A Equbal, ZA Khan…",2025,35,group A.csv
+4.1,"Modeling and Simulation of 3D Food Printing Systems—Scope, Advances, and Challenges","V Raja, S Nimbkar, JA Moses, SV Ramachandran Nair…",2023,20,group A.csv
+4.1,Opportunities and threats of adopting digital twin in construction projects: A review,"M Wang, M Ashour, A Mahdiyar, S Sabri",2024,15,group A.csv
+4.1,Surface finish classification using depth camera data,"V Frangez, D Salido-Monzu, A Wieser",2021,14,group B.csv
+4.1,Adaptive deposit compensation of construction materials in a 3D printing process,"X Yang, O Lakhal, A Belarouci…",2022,13,group A.csv
+4.1,Let's Print an Ecology in 3D (and 4D),"M Szechyńska-Hebda, M Hebda…",2024,12,group A.csv
+4.1,Machine learning approaches for FDM-based 3D printing: a literature review,"E Aktepe, U Ergün",2025,9,group A.csv
+4.1,"Digital Manufacturing: The Industrialization of"" art to Part"" 3D Additive Printing","CD Patel, CH Chen",2022,9,group A.csv
+4.1,Determination of quality classes for material extrusion additive manufacturing using image processing,"A Oleff, B Küster, L Overmeyer",2024,9,group A.csv
+4.1,Current approaches to digital twins in additive manufacturing: a systematic literature review,"L Tudorache, Ö Babur, SS Lucas…",2025,8,group A.csv
+4.1,Physics-Driven Data Collection in 3-D Printing: Traversing the Realm of Social Manufacturing,"TS Tamir, G Xiong, Z Shen…",2024,6,group A.csv
+4.1,A Systematic Review of Innovative Advances in Multi-Material Additive Manufacturing: Implications for Architecture and Construction,"A Fakhr Ghasemi, J Pinto Duarte",2025,5,group A.csv
+4.1,Defect detection in 3D printing: A review of image processing and machine vision techniques,"E Armin, S Ebrahimian, M Sanjari, P Saidi…",2025,3,group A.csv
+4.1,Effect of Recycling and UV Ageing on the Properties of PLA-Based Materials Used in Additive Manufacturing,"P Jirků, M Muller, RK Mishra, J Svobodová",2025,3,group A.csv
+4.1,Revolutionizing Architecture: 3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance,"G Murtaza, G Baldinelli",2025,1,group A.csv
+4.1,Acoustic emission monitoring of the powder bed fusion process with machine learning approach,M Ghayoomi Mohammadi,2021,1,group A.csv
+4.1,Systematic Literature Review of Competencies for Human–Robot Collaboration in Construction: A Task-Technology Fit Perspective,"E Olukanni, A Akanmu, H Jebelli",2026,1,group A.csv
+4.1,Predicting ultimate tensile and break strength of SLS PA 12 parts using machine learning on tensile load–displacement data,"A García Rodríguez, E Espejo Mora…",2025,1,group A.csv
+4.1,Automated Data-Driven Decision-Making Ensuring 3D-Printed Con-crete Performance using Machine Learning,"JCJ Spieringhs, TAMT Salet, RJMR Wolfs…",2024,0,group A.csv
+4.1,"3D concrete printing for digital construction: Materials, process integration, and emerging performance paradigms","V Nguyen-Van, M Dai, BL Dang",2026,0,group A.csv
+4.1,Machine Learning in the Modeling of 3D Printed Soil-Cement Materials: A Short Overview,"M Fareghian, M Afrazi, D Jahed Armaghani…",2026,0,group A.csv
+4.1,Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks,"L Simwanda, AB David, G Perampalam, OB Olalusi…",2025,0,group A.csv
+4.1,Artificial intelligence-aided defect detection and healing in laser-based powder bed fusion,"JS Akmal, N Doosti, M Macarie, K Minet-Lallemand…",2025,0,group A.csv
+4.1,"Large Format Additive Manufacturing with Cementitious and Geo Materials. General Considerations, Drivers, and Context",M Alnaggar,2026,0,group A.csv
+4.1,Exploring the Synergy of Machine Learning Integration in 3D Printing and Additive Manufacturing,"A Diniă, CM Rosca, M Tănase, A Stancu…",2025,0,group A.csv
+4.1,Sustainable utilization of waste in the 3D printed concrete,"J Sun, H Wang, Y Zhang, H Liu, M Zhang…",2026,0,group A.csv
+4.1,Using Machine Learning to Predict Buildability of 3D Concrete Printing,H Zhang,2024,0,group A.csv
+4.1,Sustainable Corrosion Inhibition Using Agricultural Waste: An ESG Strategy,"O Sanni, K Ukoba, J Ren, TC Jen",2024,0,group A.csv
+4.1,Machine Learning-Enabled In-Situ Defect Detection in Extrusion-Based Additive Manufacturing: A Step Toward Qualification and Certification,"MJ Shekh, C Parson, A Mishra, S Sanyal, HD Vora",2025,0,group A.csv
+4.1,Real-time Quality Control for Offsite LGS Frame Manufacturing using Vision-based Deep Learning,G Nader,2024,0,group A.csv
+4.1,"3D Concrete Printing: Technologies, Applications and Classifications","A Perrot, Y Jacquet, S Amziane",2025,0,group B.csv
+4.1,Machine learning techniques in additive manufacturing of functional polymers and nanocomposites,"JG Vitore, AD Gholap, D Nunse, R Pawar…",2025,0,group B.csv
+4.1,Terrain-Adaptive Mobile 3D Printing with Hierarchical Control,"SN Li, JN Kutz",2026,0,group C.csv
+4.2,Human–robot collaboration in construction: Classification and research trends,"CJ Liang, X Wang, VR Kamat…",2021,239,group C.csv
+4.2,Reinforcement strategies for 3D‐concrete‐printing,"H Kloft, M Empelmann, N Hack…",2020,168,group C.csv
+4.2,Eggshell: ultra-thin three-dimensional printed formwork for concrete structures,"J Burger, E Lloret-Fritschi, F Scotto…",2020,144,group C.csv
+4.2,Effects of 3D-printing processing parameters on FFF parts' porosity: Outlook and trends,"J Kechagias, S Zaoutsos",2024,119,group C.csv
+4.2,"A review of cable-driven parallel robots: Typical configurations, analysis techniques, and control methods","M Zarebidoki, JS Dhupia, W Xu",2022,110,group C.csv
+4.2,Toolpath-based design for 3D concrete printing of carbon-efficient architectural structures,"L Breseghello, R Naboni",2022,87,group C.csv
+4.2,Modelling and parameter optimization for filament deformation in 3D cementitious material printing using support vector machine,"Z Liu, M Li, Y Weng, Y Qian, TN Wong…",2020,86,group B.csv
+4.2,3D printing devices and reinforcing techniques for extruded cement-based materials: a review,"X Cao, S Yu, H Cui, Z Li",2022,61,group C.csv
+4.2,Injection 3D concrete printing (I3DCP): Basic principles and case studies,"N Hack, I Dressler, L Brohmann, S Gantner, D Lowke…",2020,59,group C.csv
+4.2,Real-time toolpath planning and extrusion control (RTPEC) method for variable-width 3D concrete printing,"PF Yuan, Q Zhan, H Wu, HS Beh, L Zhang",2022,51,group C.csv
+4.2,Constraints and limitations of concrete 3D printing in architecture,CH Ko,2022,49,group C.csv
+4.2,On the impact of additive manufacturing processes complexity on modelling,"P Stavropoulos, P Foteinopoulos…",2021,44,group C.csv
+4.2,Multiscale 3D printing via active nozzle size and shape control,"SW Kang, J Mueller",2024,40,group C.csv
+4.2,A novel strategy for multi-part production in additive manufacturing,"J Jiang, X Xu, Y Xiong, Y Tang, G Dong…",2020,39,group C.csv
+4.2,A practical fabrication strategy for wire arc additive manufacturing of metallic parts with wire structures,"Z Yu, Z Pan, D Ding, J Polden, F He, L Yuan…",2021,37,group C.csv
+4.2,Topology optimisation of self-supporting structures based on the multi-directional additive manufacturing technique,"J Ye, Q Guo, H Lu, P Kyvelou, Y Zhao…",2023,34,group C.csv
+4.2,Combined additive manufacturing techniques for adaptive coastline protection structures,"R Dörrie, V Laghi, L Arrè, G Kienbaum, N Babovic…",2022,33,group C.csv
+4.2,Autonomous mobile 3D printing of large-scale trajectories,"J Sustarevas, D Kanoulas…",2022,30,group C.csv
+4.2,A comprehensive review of sustainable materials and toolpath optimization in 3D concrete printing,"Z Zhuang, F Xu, J Ye, N Hu, L Jiang…",2024,27,group A.csv
+4.2,Task-consistent path planning for mobile 3d printing,"J Sustarevas, D Kanoulas…",2021,27,group C.csv
+4.2,Bending performance of 3D printed ultra high-performance concrete composite beams,"G Bai, J Guan, L Wang, Z Li, G Ma",2024,26,group C.csv
+4.2,A review of the extruder system design for large-scale extrusion-based 3D concrete printing,"H Chen, D Zhang, P Chen, N Li, A Perrot",2023,26,group C.csv
+4.2,"Integrated vehicle chassis fabricated by wire and arc additive manufacturing: structure generation, printing radian optimisation, and performance prediction","J Li, Q Cui, C Pang, P Xu, W Luo, J Li",2024,22,group C.csv
+4.2,Design and system considerations for construction-scale concrete additive manufacturing in remote environments via robotic arm deposition,"NA Meisel, N Watson, SG Bilén, JP Duarte…",2022,21,group C.csv
+4.2,A review on the application of 3D printing technology in pavement maintenance,"F Gong, X Cheng, Q Wang, Y Chen, Z You, Y Liu",2023,19,group C.csv
+4.2,Integration BIM and emerging technologies in architectural academic programs,N Abdelhai,2022,19,group C.csv
+4.2,Fabrication information modeling: Interfacing building information modeling with digital fabrication,"M Slepicka, S Vilgertshofer, A Borrmann",2022,18,group C.csv
+4.2,Projector-guided non-holonomic mobile 3D printing,"X Xu, Z Wang, C Feng",2021,17,group C.csv
+4.2,A global snapshot of 3D-printed buildings: Uncovering robotic-oriented fabrication strategies,"G Placzek, P Schwerdtner",2024,16,group C.csv
+4.2,Internal topology optimisation of 3D printed concrete structures: a method for enhanced performance and material efficiency,"J Hernández Vargas, A Sjölander…",2024,15,group C.csv
+4.2,A path towards off-site automated fabrication of segmented concrete shells as building floors,"R Oval, E Costa, M Nuh…",2020,15,group C.csv
+4.2,Process control for additive manufacturing of concrete components,"L Lachmayer, R Dörrie, H Kloft, A Raatz",2022,14,group C.csv
+4.2,Bézier-based biased random-key genetic algorithm to address printability constraints in the topology optimization of concrete structures,"T Pastore, C Menna, D Asprone",2022,14,group C.csv
+4.2,Wire Arc Additive Manufacturing for Widespread Architectural Application: A Review Informed by Large-Scale Prototypes,"F Raspall, S Araya, M Pazols, E Valenzuela, M Castillo…",2025,14,group C.csv
+4.2,Mobile robotics and 3D printing: addressing challenges in path planning and scalability,"M Rastegarpanah, ME Asif, J Butt, H Voos…",2024,13,group A.csv
+4.2,Force flow compliant robotic path planning approach for reinforced concrete elements using SC3DP,"R Dörrie, H Kloft",2022,13,group C.csv
+4.2,Multi-objective optimization of material extrusion additively manufactured parts from PETG feedstock material using grey wolf algorithm,"A Trivedi, M Patel",2025,13,group C.csv
+4.2,an approach of path optimization algorithm for 3D concrete printing based on graph theory,"Z Ma, W Wan, L Song, C Liu, H Liu, Y Wu",2022,12,group C.csv
+4.2,Foamwork: Challenges and strategies in using mineral foam 3D printing for a lightweight composite concrete slab,"P Bedarf, A Szabo, E Scoccimarro…",2023,12,group C.csv
+4.2,Experimental and numerical assessments of new concrete dry connections concerning potentials of the robotic subtractive manufacturing technique,"A Baghdadi, M Heristchian, L Ledderose, H Kloft",2023,12,group C.csv
+4.2,Research on the system design and target recognition method of the rebar-tying robot,"R Feng, Y Jia, T Wang, H Gan",2024,12,group C.csv
+4.2,Spiral complete coverage path planning based on conformal slit mapping in multi-connected domains,"C Shen, S Mao, B Xu, Z Wang…",2024,11,group C.csv
+4.2,"Modelling, analysis and comparison of robot energy consumption for three-dimensional concrete printing technology","D Kajzr, T Myslivec, J Černohorský",2024,10,group C.csv
+4.2,Robotic 3D printing of geopolymer foam for lightweight and insulating building elements,"P Bedarf, A Szabo, M Zanini…",2024,10,group C.csv
+4.2,Aerial additive manufacturing: Toward on-site building construction with aerial robots,"YF Kaya, L Orr, BB Kocer, V Pawar, R Stuart-Smith…",2025,10,group C.csv
+4.2,Additive fabrication of large-scale customizable formwork using robotic fiber-reinforced polymer winding,"Y Ou, DW Bao, GQ Zhu, D Luo",2022,9,group C.csv
+4.2,Utilizing Industrial By-Products for Sustainable Three-Dimensional-Printed Infrastructure Applications: A Comprehensive Review,"EO Kurniati, HJ Kim",2023,9,group C.csv
+4.2,A TSP-based continuous path planning for additive manufacturing of concrete,"A Sahu, B Panda",2025,8,group B.csv
+4.2,Trajectory planning for concrete element fabrication with optimal control,"B Blagojevic, B Schönemann, D Nigl…",2021,7,group C.csv
+4.2,"Concrete 3D printing: System development, process planning and experimental results","Y Wang, S Li, T Qin, Y Yu, J Xiao",2020,7,group C.csv
+4.2,A structure-and fabrication-informed strategy for the design of lattice structures with Injection 3D Concrete Printing,"Y Xiao, Y Shen, N Hack…",2022,7,group C.csv
+4.2,Data-Driven autonomous printing process optimization and real-time abnormality identification in aerosol jet-deposited droplet morphology,"H Zhang, L Cui, PH Lee, Y Kim, SK Moon…",2024,6,group A.csv
+4.2,Multi-Model based Additive Manufacturing: A framework for automated large-scale 3D concrete printing with industrial robots*,"L Lachmayer, T Recker, V Ekanayaka…",2024,6,group C.csv
+4.2,Fiber reinforcement of 3D printed concrete by material extrusion toolpaths aligned to principal stress trajectories,"D Auer, F Bos, M Olabi, O Fischer",2023,6,group C.csv
+4.2,New calculation approach for selecting and orienting the reinforcing material for robotic concrete manufacturing,"A Baghdadi, R Doerrie, H Kloft",2020,6,group C.csv
+4.2,Optimized control method for fused deposition 3D printing slice contour path based on improved hopfield neural network,"Y Dong, B Hu",2023,6,group C.csv
+4.2,Adaptable tool-path planning method for 3D concrete printing based on the mapping method,"Q Wan, L Wang, G Ma",2020,5,group C.csv
+4.2,Structural Performance-Based 3D Concrete Printing for an Efficient Concrete Beam,"H Wu, Y Li, X Xie, X Gao, PF Yuan",2023,5,group C.csv
+4.2,Curved-Layer Slicing and Continuous Path Planning for Multi-Axis Printing of Fiber-Reinforced Composite Structures,"Y Li, C Shi, X Yan",2025,5,group C.csv
+4.2,3D Printing in Modular Construction: Opportunities and Challenges,"M Li, D Li, J Zhang, JCP Cheng…",2020,5,group C.csv
+4.2,Development of a generative design system for 3D-printed houses in Chile,"R Garcia-Alvarado, P Soza-Ruiz…",2024,5,group C.csv
+4.2,"Workflow for generating, simulating, and optimizing form and toolpath in 3D concrete printing of vaults","G Duarte, NC Brown, JP Duarte",2024,4,group C.csv
+4.2,Optimized motion planning for mobile robots in dynamic construction environments with low-feature mapping and pose-based positioning,"S Du, M Du, Y Gao, M Yang, F Hu, Y Weng",2025,4,group C.csv
+4.2,A Novel Large-Scale 3D Printing Apparatus for Complex Geological Models and Its Application,"SM Mei, ZW Li, BG He, JQ Song, MY Zhang…",2025,4,group C.csv
+4.2,"Welding‐Based 3D, 4D, 5D Printing","S Goka, SN Srirama, G Divya Jyothi…",2024,4,group C.csv
+4.2,Solving Some Graph Problems in Composite 3D Printing Using Spreadsheet Modeling,"L Hlinenko, V Fast, Y Yakovenko, R Trach…",2023,4,group C.csv
+4.2,Robotic FDM for free-form fabrication: evaluating adaptive non-planar slicing with different contour methods,"V Furlan, F Insero, H Giberti",2025,4,group C.csv
+4.2,Design and development of a g-code generator for cnc machine tools based on augmented reality (AR),"D Mourtzis, P Kaimasidis, J Angelopoulos…",2022,4,group C.csv
+4.2,Design Tool for Extrusion Based Additive Manufacturing of Functionally Enhanced Lightweight Concrete Wall Elements with Internal Cellular Structures,F Jaugstetter,2020,4,group C.csv
+4.2,Reconfigurable cable-driven parallel mechanism design: physical constraints and control,"E Khoshbin, MJD Otis, R Meziane",2024,4,group C.csv
+4.2,Branch Wall: Developing Topology Informed Non-Planar Toolpath and Variable Deposition Rate for 3d Concrete Printing of Topology Optimized Load Bearing Wall,"Y Lin, A Bayramvand, MA Meibodi",2023,3,group C.csv
+4.2,Compensation manipulator for concrete 3D printing based on the CONPrint3D,"A Mustafa, F Storch, K Rustem, P Plashnik…",2024,3,group C.csv
+4.2,Robotic frame winding: prefabricated fibre structures as formwork and reinforcement for digitally fabricated shell-like concrete elements,"S Gantner, P Rennen, FS Amiri, T Rothe, C Hühne…",2025,3,group C.csv
+4.2,Building Information Model (BIM) and robotic systems integration for construction: A comprehensive workflow analysis and future perspectives,"O Odugu, F Ghafari, E Shourangiz, MT Khan…",2024,3,group C.csv
+4.2,Optimal strategies for filament orientation in non-planar 3D printing,"S Atarihuana, F Fernández, J Erazo, M Narváez…",2024,3,group C.csv
+4.2,Towards construction 4.0: computational circular design and additive manufacturing for architecture through robotic fabrication with sustainable materials and open …,"P Eversmann, A Rossi",2023,3,group C.csv
+4.2,Beyond trial and error: toward construction-aware early design optimization considering robotic capabilities,"SH Zargar, RM Leicht, AR Wagner, J Duarte…",2025,3,group C.csv
+4.2,Grading Threads. Exploiting Viscous Thread Instability for the additive fabrication of Functionally Graded Structures via sensor-adaptive robotic control,M Palma,2023,3,group C.csv
+4.2,Path planning for graded concrete element fabrication,"B Blagojevic, O Sawodny",2023,2,group C.csv
+4.2,Feasibility Study on Reinforcement Placement with a BIM-Enabled Collaborative Robot System,"F Teng, D Zhang, H Li, Y Weng",2023,2,group C.csv
+4.2,3D concrete printing of topological interlocking blocks,"T Goertzen, T Neef, P Scheffler, D Macek…",2025,2,group C.csv
+4.2,Design of miniature 3D concrete printer (3DCP) for one-story house building,"MK Abdulloh, IA Sulistijono, MN Tamara",2024,2,group C.csv
+4.2,A curved layering algorithm based on voxelization and geodesic distance for robotic GMA additive manufacturing,"X Li, H Yan, J Sun, Y Li, G Zhang",2024,2,group C.csv
+4.2,UAV 3D Path Planning based on Ant Colony Algorithm,X Du,2023,2,group C.csv
+4.2,Comparison between mono-and bi-component extruders in concrete additive manufacturing,"L Poudelet, MG Molina, L Calvo, R Cardona…",2023,2,group C.csv
+4.2,3D printing for construction: a systematic review of its sustainability,"F Simioni, B Rangel, N Campos, J Teixeira",2023,2,group C.csv
+4.2,A novel parametrical approach to the ribbed element slicing process in robotic additive manufacturing,"I Gajdoš, Ł Sobaszek, P Štefčák, J Varga, J Slota",2025,2,group C.csv
+4.2,RAVEN: development of a novel robotic additive manufacturing system towards small-scale fabrication of complex scaffolds for regenerative medicine,"P Fucile, VC David, M Kalogeropoulou…",2024,2,group C.csv
+4.2,Forming quality evaluation of 3D printed lines and layers with cement-based materials under different process parameters,"SM Mei, MY Zhang, ZW Li, BG He…",2025,2,group C.csv
+4.2,Improving a tool-path optimisation method in material extrusion additive manufacturing by data clustering and collapsing,"N Volpato, TR Weller, R Minetto, RD da Silva…",2025,2,group C.csv
+4.2,Performance Modeling of 3D Printed Structural Beams Using Low-Carbon Cementitious Composites,"SE Okiye, ZS Nwokediegwu, AO Bankole",2024,1,group A.csv
+4.2,Additive Manufacturing of Bead-Chain-Shaped Scaffolds with AI-Based Process Optimization,"JA Kim, HW Kim, YS Cho",2025,1,group A.csv
+4.2,RESOURCE-SAVING TECHNOLOGIES AND STRUCTURAL OPTIMIZATION OF CIVIL DEFENSE PROTECTIVE STRUCTURES,"V Usenko, A Hasenko, D Usenko",2025,1,group A.csv
+4.2,Ceramic Process Optimization and Automation Design Based on CAD and Reinforcement Learning,"T Tu, M Liu, Y Yu, H Yang",2024,1,group A.csv
+4.2,Predictive modeling and statistical optimization of geometrical accuracy in thin-walled HT-PLA parts fabricated by FFF,"CLF De Assis, K dos Santos Tiene…",2025,1,group A.csv
+4.2,Topology Optimization of 3D Printed Flexural Elements,A Bjelland,2020,1,group B.csv
+4.2,Building Information Modeling (BIM)-based on-site 3D printer position optimization and path planning for digital fabrication,"S Bas, OE Aydin, ZB Bundur, G Guven",2024,1,group C.csv
+4.2,Cost Effective Design and Development of a Cable-Driven Parallel Robot for Concrete Printing,"I Chawla, BRB Pedapudi…",2025,1,group C.csv
+4.2,Computational Design of Architected Lattices for Construction Applications,S Leamon,2025,1,group C.csv
+4.2,Digital Fabrication of Biologically Cemented Spatial Structures,"K Antorveza Paez, AS Ling, N Mahamaliyev…",2025,1,group C.csv
+4.2,Deriving Fabrication Information from BIM for Automated Robotic Task Planning,"MJS Brinkhoff, MR Kolani",2024,1,group C.csv
+4.2,Additive Manufacturing and Automation in Construction,O Iuorio,2024,1,group C.csv
+4.2,The Cost of Scaling Up in Large-Format Additive Manufacturing,"A Roschli, BK Post, P Wang, P Chesser…",2025,1,group C.csv
+4.2,Intelligent 3D printing method for large 3D deep complex engineering geological model,"F Xiating, Z Li, MEI Shiming, G Yanhua",2024,1,group C.csv
+4.2,Cultural heritage conservation in digital era: A review of digital twin and 3D printing applications,"İH Tarhan, Y Tarhan",2025,1,group C.csv
+4.2,"BIM integration in prefabricated additive construction projects, case study","LM Henao-Rios, A Orobio, W Campaña",2026,1,group C.csv
+4.2,Hybrid Path Generation Method for Multi-Axis Laser Metal Deposition of Overhanging Thin-Walled Structures,"H Liu, F Xing",2024,1,group C.csv
+4.2,A hybrid fabrication technique of capacitive flow meters using three-dimensional printing for rectifying airflows,"S Shin, G Park, WY Kim, H So",2022,1,group C.csv
+4.2,Systematic review on 3D concrete printing technology: breakthroughs and challenges,"AA Agegn, Y Regassa, K Angassa…",2026,0,group A.csv
+4.2,Concrete Spray 3D Printing Simulator for Nozzle Trajectory Planning,"S Yamakawa, K Vazquez-Santiago…",2025,0,group A.csv
+4.2,Roadmap on Artificial Intelligence‐Augmented Additive Manufacturing,"A Zolfagharian, L Jin, Q Ge, WH Liao…",2026,0,group A.csv
+4.2,Resource-saving technologies and structural optimization of civil defense protective structures. In Innovations in science: current research and advanced technologies …,"ВГ Усенко, АВ Гасенко, ДВ Усенко",2025,0,group A.csv
+4.2,Implementation Pathways for the Sustainable Development of China's 3D Printing Industry Under the “Dual Carbon” Goals: Policy Optimization and …,"L Xuan, Y Zhao",2026,0,group A.csv
+4.2,An Interlaced Toolpath Method for Void Reduction in Material Extrusion Additive Manufacturing,X Sun,2024,0,group A.csv
+4.2,The Effects of Non-Planar 3D Printing on the Strength of Complex Architectural Forms,E Simon,2025,0,group A.csv
+4.2,Allosteric regulation in globin coupled sensor proteins,N Hoque,2024,0,group A.csv
+4.2,Multi-Criteria Decision Framework for Optimal Robotic System Selection in 3D Concrete Printing,"L Ciprian, CM Negrutiu, S Ioan",2026,0,group C.csv
+4.2,Simultaneous topology and path optimization for 3D concrete printing based on discrete frame structures,"M Liao, X Sun, Z Chen",2025,0,group C.csv
+4.2,Real-Time Vision-Based Path Planning Approach for Shape Error Minimization in 3D Printing of Cylindrical Structure,"S Ishikawa, R Tasaki",2025,0,group C.csv
+4.2,Method and a system for collision avoidance of a 3D robotic concrete printer,"C SCHLETTE, LN Henrik",2025,0,group C.csv
+4.2,Adaptable Tool-Path Planning Method for 3D Concrete Printing Based on the Mapping,"Q Wan¹, L Wang, G Ma",2021,0,group C.csv
+4.2,Robotically 3D Printed Formwork for Concrete Structures,JJ Burger,2023,0,group C.csv
+4.2,Pioneering Large-Scale Construction through 3D Printing: A Critical Review,"M Dungrani, A Hashemi, D Do-Rosario-Benros, F Wirz",2024,0,group C.csv
+4.2,Research on 3D Printed Section of Concrete Based on Robot Arm and Structural Design of Sprinkler Head,"C Wu, Y Lu, J Tian, X Zhu, Y Wang, H An",2024,0,group C.csv
+4.2,Design of Extrusion-Based Concrete Printer System for Expeditionary Environments,"G Peterson, WR Norris…",2025,0,group C.csv
+4.2,Cable suspended parallel robotic system for 3D structural printing,A Ahmed,2022,0,group C.csv
+4.2,A Novel Concrete Placing Path Generation Method Based on Error Zone with Concrete Placing Robot,"S Fan, W Li, R Xie",2023,0,group C.csv
+4.2,Robot-Based 3d Printing: Digital Twin-Driven Motion Planning Platform,"Y Wang, C Zhao, W Liu, S Li",2024,0,group C.csv
+4.2,A Novel Mobile 3D Printing Robot Incorporating a Planar Five-bar Mechanism,"H Liu, Y Zhang, R Lin, D Li, Y Li",2023,0,group C.csv
+4.2,Stress-Informed Non-Planar Slicing for 3D Concrete Printing,"G Di Marco, YAU Ho Man…",2025,0,group C.csv
+4.2,"BIM-Driven Robotics in Construction: A Systematic Review of Integration Methods, Applications, and Future Directions","O Odugu, F Ghafari, E Shourangiz…",2025,0,group C.csv
+4.2,Defect Mitigation for Robot Arm-based Additive Manufacturing Utilizing Intelligent Control and IOT,"M Ali, B Gassen, S Liu",2025,0,group C.csv
+4.2,Estimate of Material Deformation by Experimentation in the Context of Additive Printing of Concrete on a Large Scale,"S Mercy, TE Devi, SR Muniyasamy…",2026,0,group C.csv
+4.2,Process framework for transferring BIM data to robot operations in construction,A Badre,2020,0,group C.csv
+4.2,Process simulation for enhancing self-supporting printability in 3D curvature-oriented clay form printing with an additional-axis base,"X Lu, Y Ikeda, A Khajehee, K Ito",2023,0,group C.csv
+4.2,Recent Advancements of Applied Robotics in Construction Project Management: A Life Cycle Perspective,"Y Wang, X Hou, T Chen, B Xiao",2025,0,group C.csv
+4.2,Stress Analysis in Multi-head Large Scale Additive Manufacturing,"S Ghungrad, A Haghighi",2024,0,group C.csv
+4.2,Green design and manufacturing processes based on additive manufacturing: A review,"L Lu, Y Yang, K Sheng, X Du, Y Song, Z Mi",2025,0,group C.csv
+4.2,Tornado-Resilient 3D-Printed Housing: A US Case Study Validating Cost-Effective Construction with Conventional Mortar,S Joseph,2025,0,group C.csv
+4.2,Data-driven parameter calibration in additive manufacturing for construction: an introduction to learning by printing,"L Bettermann, M Slepicka, S Esser, A Borrmann",2025,0,group C.csv
+4.2,Integrating CAD and extended robotics for masonry restoration: a scalable workflow for historic and heritage buildings (HHBs),"B Yu, Y Gong, J Luo, A Fingrut",2025,0,group C.csv
+4.2,Evaluation of an Autonomous Driving Dumper using a Robot Evaluation Framework,"T Bernhard, YJ Huang, A Fischer…",2025,0,group C.csv
+4.2,A path towards the off-site automated fabrication of segmented concrete shells for building slabs,"SA Behnejad, GAR Parke, OA Samavati",2021,0,group C.csv
+4.2,Additive Manufacturing With a Climbing Mobile Platform–Design &Implementation,EA Nastarowicz,2024,0,group C.csv
+4.2,Dynamic grasping system based on visual algorithm and robot arm collaboration in logistics production line,"B He, B Chen",2026,0,group C.csv
+4.2,DEVELOPMENT OF AN INDUSTRIAL AUTOMATIC ROBOT CELL WITH AN ELECTROMAGNETIC INTERCHANGEABLE TOOL SYSTEM,"AM Ivan, CA Cristoiu…",2024,0,group C.csv
+4.2,A Model Predictive Control Framework to Enhance Safety and Quality in Mobile Additive Manufacturing Systems,"Y Li, JA Robbins, G Manogharan, HC Pangborn…",2025,0,group C.csv
+4.2,Scaling Exoskeleton Prototype for Gait Analysis,"J Mendoza-Martínez, F Jiménez-Ponce…",2025,0,group C.csv
+4.2,Trajectory Tracking of Cable-Driven Parallel Robot via a Hybrid Structure of Type-2 Fuzzy Controllers and Sliding Mode Control Under Disturbances and Pulley …,"DH Nguyen, NT Bui",2025,0,group C.csv
+4.2,Data-Driven Parameter Calibration in Additive Manufacturing for Construction,"L Bettermann, M Slepicka, S Esser…",2025,0,group C.csv
+4.2,Integrated design and fabrication of additive manufacturing-based shading components with daylight performance optimization,"G Yan, Y Jia, M Zhen, Q Dong",2025,0,group C.csv
+4.2,Computational Geometry Generation of Concept Design Driven by Manufacturability for Layer-Based Direct Deposition AM,"F Schito, K Dörfler, P D'ACUNTO…",2025,0,group C.csv
+4.2,Automated Screw-Fastened Assembly of Layered Timber Arch-Shells: Construction-Phase LCA and Performance Validation,"Y Li, K Bi, H Fukuda",2025,0,group C.csv
+4.2,"David Böhler¹, Inka Mai¹, Niklas Freund¹, Lukas Lachmayer2","A Raatz, D Lowke¹",2022,0,group C.csv
+4.2,Design and Parameter Identification of Wire and Arc Additively Manufactured (WAAM) Steel Bars for Use,"J Müller, M Grabowski, C Müller, J Hensel…",2021,0,group C.csv
+4.2,Regulation Strategies for Extruded Filament in Material Extrusion Additive Manufacturing: A Review and Perspective,"L Sun, W Cai, Y Zhang, Y Zhang…",2025,0,group C.csv
+4.2,Display guided high-accuracy robotic navigation and motion control system and methods,"C Feng, X Xu",2025,0,group C.csv
+4.2,Adaptive Frameworks for Robotic Non-Planar Additive Manufacturing,BAMA Darweesh,2024,0,group C.csv
+4.2,Facile Manufacturing of Capacitive Flow Meters Using Indirect Three-Dimensional Printing Technology for Rectifying Airflows,"S Shin, G Park, WY Kim",2021,0,group C.csv
+4.2,Digital Innovation Roadmap for Construction Industry: Bridging the Gap for Future,N Zahin,2024,0,group C.csv
+4.2,Are Friday Announcements Special? Limited Investor Attention and Unanticipated Disclosure,L Orton,2022,0,group C.csv
+4.2,"Visions of an Emancipated Society: The Oberlin Mission, Black Activists, and Transnational Education, 1835-1875",S Mills,2022,0,group C.csv
+4.2,Surface Chemistry of Transition Metal Nanoparticles,VS Tanygin,2022,0,group C.csv
+5.1,"A review on machine learning in 3D printing: applications, potential, and challenges","GD Goh, SL Sing, WY Yeong",2021,737,group A.csv
+5.1,Rapid surface defect identification for additive manufacturing with in-situ point cloud processing and machine learning,"L Chen, X Yao, P Xu, SK Moon, G Bi",2021,203,group C.csv
+5.1,Orbital overlapping through induction bonding overcomes the intrinsic delamination of 3D-printed cementitious binders,"E Hosseini, M Zakertabrizi, A Habibnejad Korayem…",2020,53,group B.csv
+5.1,Automated flow rate control of extrusion for 3D concrete printing incorporating rheological parameters,"O Ahi, Ö Ertunç, ZB Bundur, Ö Bebek",2024,22,group C.csv
+5.1,Proposal of a decoupled structure of fuzzy-pid controllers applied to the position control in a planar cdpr,"M Carpio, R Saltaren, J Viola, C Calderon, J Guerra",2021,21,group C.csv
+5.1,Non-planar slicing for filled free-form geometries in robot-based FDM,"F Insero, V Furlan, H Giberti",2025,16,group C.csv
+5.1,Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for construction,"M Slepicka, A Borrmann",2024,12,group C.csv
+5.1,Enhancing precision in 3D printing for highly functional printing with high-speed vision,"T Wang, Y Yamakawa",2024,4,group A.csv
+5.1,A multi-material extrusion nozzle for functionally graded concrete printing,"F Craveiro, H Bártolo, JP Duarte…",2020,3,group B.csv
+5.1,Process and evaluation of automated robotic fabrication system for in-situ structure confinement,"BBM Kumar, YC Hsueh, Z Xin, D Luo",2021,3,group C.csv
+5.1,Digital quality assurance system for additive manufacturing based on machine learning methods and blockchain technology,E Westphal,2023,1,group A.csv
+5.1,Rapid composite formwork: An automated and customizable process for freeform concrete through computational design and robotic fabrication,"GE Gardner, K Forward, K Tse, K Sharma",2020,1,group B.csv
+5.1,Novel additive lamination manufacturing system for rapid fabrication of large-scale reinforced structural members,"Z Xin, G Zhu, YC Hsueh, D Luo",2024,1,group C.csv
+5.1,Hierarchical Discrete Lattice Assembly: An Approach for the Digital Fabrication of Scalable Macroscale Structures,"M Smith, P Richard, AH Kyaw…",2025,1,group C.csv
+5.1,Integration of laser profiler feedback into fim-based additive manufacturing in construction,S Espinosa,2023,1,group C.csv
+5.1,Accelerating the Design of Sustainable Concrete With CDW Through Adaptive Experiments and Machine Learning for Conventional and Additive …,TT Baah,2025,0,group A.csv
+5.1,Feedback Control-Based 3d Printing Product Quality,L Li,2024,0,group A.csv
+5.1,Buildability analysis in 3D concrete printing using computer vision and automated annotation,"YC Kim, TS Han",2025,0,group A.csv
+5.1,Integrating Monitoring Solutions in 3D Printing Process for Enhanced Optimization,"M Pollák, M Kočiško, J Dobránsky",2025,0,group A.csv
+5.1,"Quality-centric digital twins in additive manufacturing: a review of the state-of-the-art, challenges, and future directions","MV Ehteshamfar, X Xu, S Yang",2026,0,group A.csv
+5.1,Innovative approaches to recycling and waste reduction in 3D printing,"V Phutela, S Juneja",2025,0,group A.csv
+5.1,Application of artificial intelligence technology in 3D concrete printing quality inspection and control: a state-of-the-art review,"Y Ding, Y Liu, B Yang, J Liu, P Gao…",2025,0,group B.csv
+5.1,I acknowledge that copyright of any published works contained within this thesis resides with the copyright holder (s) of those works. I gave permission for the …,YL Tee,2022,0,group B.csv
+5.1,Research progress and trends of intelligent technology construction in large infrastructures: a CiteSpace-based visualization and analysis,"Z Liu, W Li, Q Zhang, M Zhu, Z Liu",2025,0,group C.csv
+5.1,Contemporary study on 3D printing and its advancement for industrial applications,"P Dinesh Kumar, S Kavitha, M Adam Khan…",2025,0,group C.csv
+5.2,"3D concrete printing: a systematic review of rheology, mix designs, mechanical, microstructural, and durability characteristics","AU Rehman, JH Kim",2021,312,group B.csv
+5.2,"3D-printed concrete: Applications, performance, and challenges","A Siddika, MAA Mamun, W Ferdous…",2020,259,group B.csv
+5.2,Influence of process parameters on the interlayer bond strength of concrete elements additive manufactured by Shotcrete 3D Printing (SC3DP),"H Kloft, HW Krauss, N Hack, E Herrmann…",2020,234,group B.csv
+5.2,The effect of accelerator dosage on fresh concrete properties and on interlayer strength in shotcrete 3D printing,"I Dressler, N Freund, D Lowke",2020,176,group C.csv
+5.2,Shotcrete 3D printing technology for the fabrication of slender fully reinforced freeform concrete elements with high surface quality: a real-scale demonstrator,"N Hack, H Kloft",2020,132,group B.csv
+5.2,"Shotcrete based 3D concrete printing: State of art, challenges, and opportunities","F Heidarnezhad, Q Zhang",2022,100,group B.csv
+5.2,A Systematic Literature Review on Additive Manufacturing in the Context of Circular Economy.,"S Ponis, E Aretoulaki, TN Maroutas…",2021,96,group B.csv
+5.2,"Large-scale automated additive construction: overview, robotic solutions, sustainability, and future prospect","MR Khosravani, A Haghighi",2022,69,group B.csv
+5.2,The viability and simplicity of 3D-Printed construction: A military case study,"J Jagoda, B Diggs-McGee, M Kreiger, S Schuldt",2020,63,group B.csv
+5.2,Teams of robots in additive manufacturing: a review,"A Alhijaily, ZM Kilic, ANP Bartolo",2023,63,group B.csv
+5.2,Framework of 3D concrete printing potential and challenges,"AK Al-Tamimi, HH Alqamish, A Khaldoune, H Alhaidary…",2023,61,group B.csv
+5.2,A compendious rheo-mechanical test for printability assessment of 3D printable concrete,"S Cho, J Kruger, F Bester, M van den Heever…",2020,51,group B.csv
+5.2,Development of a robot-based multi-directional dynamic fiber winding process for additive manufacturing using shotcrete 3D printing,"N Hack, M Bahar, C Hühne, W Lopez, S Gantner…",2021,46,group B.csv
+5.2,Integrated numerical modelling and deep learning for multi-layer cube deposition planning in laser aided additive manufacturing,"K Ren, Y Chew, N Liu, YF Zhang…",2021,40,group B.csv
+5.2,Modelling the influence of material and process parameters on Shotcrete 3D Printed strands-cross-section adjustment for automatic robotic manufacturing,"L Lachmayer, D Böhler, N Freund, I Mai…",2023,35,group C.csv
+5.2,Large particle 3D concrete printing—a green and viable solution,"I Mai, L Brohmann, N Freund, S Gantner, H Kloft…",2021,33,group B.csv
+5.2,Mechanical performance of recycled 3D printed sustainable polymer-based composites: A literature review,"IF Kyriakidis, N Kladovasilakis, EM Pechlivani…",2024,32,group B.csv
+5.2,Latest trend in building construction: Three-dimensional printing,"A Babbar, A Rai, A Sharma",2021,29,group B.csv
+5.2,The effects of nozzle diameter and length on the resulting strand properties for shotcrete 3D printing,"M David, N Freund, K Dröder, D Lowke",2023,27,group B.csv
+5.2,"Bibliographic analysis on 3D printing in the building and construction industry: Printing systems, material properties, challenges, and future trends","Q Shahzad, M Umair, S Waqar",2022,26,group B.csv
+5.2,Understanding the mechanism of abrasive-based finishing processes using mathematical modeling and numerical simulation,"AW Hashmi, HS Mali, A Meena, KK Saxena…",2022,26,group B.csv
+5.2,Adaptive toolpath: enhanced design and process control for robotic 3DCP,"L Breseghello, R Naboni",2021,24,group B.csv
+5.2,Robotized additive manufacturing of funicular architectural geometries based on building materials,"O Lakhal, T Chettibi, A Belarouci…",2020,24,group B.csv
+5.2,Sustainable approaches for the additive manufacturing of ceramic materials,"A Villa, PK Gianchandani, F Baino",2024,24,group B.csv
+5.2,Control of strand properties produced with shotcrete 3D printing by accelerator dosage and process parameters,"I Dressler, N Freund, D Lowke",2020,23,group C.csv
+5.2,Automated post-processing of 3D-printed parts: artificial powdering for deep classification and localisation,"JXY Lim, QC Pham",2021,22,group B.csv
+5.2,Advancements in surface finish for additive manufacturing of metal parts: a comprehensive review of plasma electrolytic polishing (PEP),"J Valentinčič, JE Koroth, H Zeidler",2024,22,group B.csv
+5.2,"Adoption of three-dimensional printing technology in public housing in Singapore: Drivers, challenges, and strategies","D Won, BG Hwang, S Chi, JL Kor",2022,22,group B.csv
+5.2,Robotic plaster spraying: Crafting surfaces with adaptive thin-layer printing,"S Ercan Jenny, E Lloret-Fritschi, D Jenny…",2022,21,group B.csv
+5.2,Automated force-flow-oriented reinforcement integration for Shotcrete 3D Printing,"R Doerrie, N Freund, E Herrmann, A Baghdadi…",2023,21,group C.csv
+5.2,Robotic knitcrete: computational design and fabrication of a pedestrian bridge using robotic shotcrete on a 3D-Knitted formwork,"P Rennen, S Gantner, G Dielemans, L Bleker…",2023,20,group B.csv
+5.2,Challenges and issues in manufacturing of components using polymer-based selective laser sintering (SLS): a review,"S Singh, D Kaur, M Singh, R Balu, A Mehta…",2024,19,group B.csv
+5.2,A lean-based production approach for shotcrete 3D printed concrete components,"G Placzek, L Brohmann, K Mawas…",2021,18,group B.csv
+5.2,AutoCIS: an automated construction inspection system for quality inspection of buildings,"SA Prieto, N Giakoumidis…",2021,17,group B.csv
+5.2,Additive manufacturing for the circular built environment: Towards circular construction with earth-based materials,"K Chadha, A Dubor, E Cabay, Y Tayoun…",2024,17,group B.csv
+5.2,An analysis of the viability of 3D-printed construction as an alternative to conventional construction methods in the expeditionary environment,JA Jagoda,2020,17,group B.csv
+5.2,3D printing technology for rapid response to climate change: Challenges and emergency needs,"SA Khan, A Al Rashid, J Muhammad…",2024,16,group B.csv
+5.2,Predicting the rheological properties of super-plasticized concrete using modeling techniques,"MN Amin, A Ahmad, K Khan, W Ahmad, S Ehsan…",2022,16,group B.csv
+5.2,High-resolution additive formwork for building-scale concrete panels,"R Naboni, L Breseghello",2020,15,group B.csv
+5.2,"Review on the developments of structure, construction automation, and monitoring of intelligent construction","K Liu, Q Meng, Q Kong, X Zhang",2022,15,group B.csv
+5.2,Core winding: force-flow oriented fibre reinforcement in additive manufacturing with concrete,"S Gantner, P Rennen, T Rothe, C Hühne…",2022,14,group B.csv
+5.2,Current surveying methods for the integration of additive manufacturing in the construction process,"M Maboudi, M Gerke, N Hack…",2020,14,group B.csv
+5.2,Automatic geometric inspection in digital fabrication,"K Mawas, M Maboudi, M Gerke",2022,14,group B.csv
+5.2,"RoBétArmé Project: Human-robot collaborative construction system for shotcrete digitization and automation through advanced perception, cognition, mobility …","I Kostavelis, L Nalpantidis, R Detry…",2024,13,group B.csv
+5.2,Interlayer reinforcement in shotcrete-3D-printing: the effect of accelerator dosage on the resulting bond behavior of integrated reinforcement bars,"N Freund, D Lowke",2022,13,group C.csv
+5.2,The effect of curing conditions on the service life of 3D printed concrete formwork,"M Bekaert, K Van Tittelboom, G De Schutter",2023,12,group B.csv
+5.2,In-process integration of reinforcement for construction elements during shotcrete 3D printing,"R Dörrie, M David, N Freund, D Lowke…",2023,12,group B.csv
+5.2,Digital twinning in additive manufacturing-closing the digital-physical-digital loop by automated integration of captured geometric data into fabrication information …,"M Slepicka, K Mawas, A Borrmann, M Maboudi…",2022,11,group B.csv
+5.2,Advanced manufacturing and materials for hydropower: Challenges and opportunities,"M Musa, L Ghobrial, C Sasthav, J Heineman…",2023,11,group B.csv
+5.2,Optimizing the macrostructure of 3D-printed pipe surfaces to improve cleanability,"T Hanisch, M Joppa, V Eisenrauch, S Jacob…",2024,10,group B.csv
+5.2,Precision manufacture of concrete parts using integrated robotic 3D printing and milling,"P Kinnell, J Dobranski, J Xu, W Wang, JT Kolawole…",2021,9,group B.csv
+5.2,Hybrid metal 3D printing for selective polished surface,"SY Mak, KL Tam, CHB Yung, WFE Yau",2021,8,group B.csv
+5.2,Comparison of Bending Properties of Sandwich Structures Using Conventional and 3D-Printed Core with Flax Fiber Reinforcement,"V Brejcha, M Böhm, T Holeček, M Jerman…",2025,7,group B.csv
+5.2,A closed-loop workflow for quality inspection and integrated post-processing of 3D-printed concrete elements,"N Hack, C Jantzen, L Brohmann, M Gerke…",2022,6,group B.csv
+5.2,Filament extraction in 3d printing of shotcrete walls from terrestrial laser scanner data,"K Mawas, M Maboudi, M Gerke",2023,6,group C.csv
+5.2,Influence of material and process parameters on hardened state properties of shotcrete 3D-printed elements,"D Böhler, I Mai, N Freund, L Lachmayer…",2022,6,group C.csv
+5.2,Automated Shotcrete: A More Sustainable Construction Technology,"G Isaac, P Nicholas, G Paul, N Pietroni…",2024,5,group B.csv
+5.2,Impact printed structures: design systems and construction strategies,"K Chadha, L Vasey, A Kango…",2024,5,group B.csv
+5.2,On the Effects of Additive Manufacturing on Affordable Housing Development: A Review,"M Bayat, S Kharel, J Li",2025,5,group B.csv
+5.2,Recent developments in additive manufacturing equipment's and its processes,"G Angappan, S Sivaraj, M Mohankumar…",2024,5,group B.csv
+5.2,Additive manufacturing of support structures,JR Cotrell,2021,5,group B.csv
+5.2,Energy Efficiency and Sustainability of Additive Manufacturing as a Mass-Personalized Production Mode in Industry 5.0/6.0,"I Rojek, D Mikołajewski, J Kopowski, T Bednarek…",2025,5,group B.csv
+5.2,Monitoring of 3D concrete printing quality through multi-view RGB-D images,"AMA Zaki, M Carnevale, H Giberti…",2024,4,group B.csv
+5.2,Towards Lightweight Structure: Coupling Topology Optimization with Non-planar 3D Concrete Printing,"Y Lin, A Bayramvand, M Aghaei Meibodi",2024,4,group B.csv
+5.2,From Digital to Real: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures,"R Dörrie, S Gantner, FS Amiri, L Lachmayer, M David…",2025,4,group B.csv
+5.2,"Additive Formwork: Examining Design, Fabrication Space and Resolution for Bespoke Concrete Elements","R Naboni, L Breseghello",2022,4,group B.csv
+5.2,Distortion analysis of generatively designed hinge bracket using meso-scaled thermomechanical simulation with experimental validation,"T Taufek, YHP Manurung, S Akma…",2022,4,group B.csv
+5.2,Can the Dimensional Optimisation of 3D FDM-Manufactured Parts Be a Solution for a Correct Design?,"A Neacșa, A Diniță, ȘV Iacob",2025,4,group B.csv
+5.2,A Systematic Literature Review on Additive Manufacturing in the Context of Circular Economy. Sustainability 2021; 13: 6007,"S Ponis, E Aretoulaki, TN Maroutas, G Plakas…",2021,4,group B.csv
+5.2,Vat Photopolymerisation additive manufacturing for pharmaceutical applications,"A Awad, X Xu, JJ Ong, A Goyanes, AW Basit",2023,4,group B.csv
+5.2,Automated Reinforcement Integration in Shotcrete 3D Printing Through Green State Milling,"R Dörrie, H Kloft, B Sawicki, N Freund…",2024,4,group C.csv
+5.2,Improving homogeneity of 3D-printed cementitious material distribution for radial toolpath,"M Li, Z Liu, JY Ho, TN Wong",2023,3,group B.csv
+5.2,"Design, Robotic Fabrication and Augmented Construction of Low-Carbon Concrete Slabs Through Field-Based Reaction–Diffusion","R Naboni, A Zomparelli, A Kunic…",2023,3,group B.csv
+5.2,Understanding the Placement Mechanism of Wet-Mix Shotcrete and the Influence of Material Properties,X Wang,2021,3,group B.csv
+5.2,Digital Structural Design and Shotcrete 3D Printing Strategies for Lightweight Reinforced Concrete Beam-Grid Structures,"Y Xiao, N Hack, H Kloft",2022,3,group C.csv
+5.2,Non-Planar Helical Path Generation Method for Laser Metal Deposition of Overhanging Thin-Walled Structures,"H Liu, F Xing",2024,3,group C.csv
+5.2,Structural optimization and performance evaluation of Spain's 3D-printed concrete bridges using AI-based design approaches,WY Leong,2025,2,group B.csv
+5.2,3D printing in facilities management: A systematic review toward smart and sustainable building operations,"MT Abid, SA Khan, M Koç",2025,2,group B.csv
+5.2,Applications of Additive Manufacturing in Construction and Historic Building Restoration/Rehabilitation,FE Kaya,2021,2,group B.csv
+5.2,Towards a digital twin of extrusion-based additive manufacturing: an experimentally validated numerical model of ironing process,"A Pricci, G Percoco",2025,2,group B.csv
+5.2,Automation of postprocessing parts and materials creating using the selective laser sintering technology,"IK Romanova-Bolshakova, AS Filimonov…",2023,2,group B.csv
+5.2,"Additive manufacturing with novel materials: Process, properties and applications","R Rajasekar, CM Priya, PS Kumar",2024,2,group B.csv
+5.2,Preparation and properties of geopolymer matrix composites containing waste olivine sands from a metallurgical process,"E Furlani, A Rondinella, E Aneggi…",2022,2,group B.csv
+5.2,Structural Evaluation of Shotcrete 3D Printing and Robotic Fiber Winding for Thin Shell Elements,"P Rennen, S Gantner, T Rothe, B Baz, S Nana…",2024,2,group C.csv
+5.2,3D Concrete Printing in Construction Industry—A State of the Art,"H Sesetti, MV Lalithya, PG Kumar",2022,1,group B.csv
+5.2,Evaluation of 3D Concrete Printing in the United Arab Emirates,AS Alchaar,2020,1,group B.csv
+5.2,"Large Particle 3D Concrete Printing—A Green and Viable Solution. Materials 2021, 14, 6125","I Mai, L Brohmann, N Freund, S Gantner, H Kloft…",2021,1,group B.csv
+5.2,Extrudate formation modelling and variable geometry nozzle system design for extrudate geometry control in 3D concrete printing,W Lao,2020,1,group B.csv
+5.2,Enhancing surface quality in additive manufacturing applications: a micro-power float approach,"S Lei, JT Kolawole, J Dobrzanski, J Xu…",2024,1,group B.csv
+5.2,Rheological and strength characterisation of limestone calcined clay cement 3D printed concrete,"KA Ibrahim, G van Zijl…",2022,1,group B.csv
+5.2,"Portland 3D Printing of Portland Cement Pastes with Additions of Kaolin, Superplastificant, and Calcium Carbonate","LA Vergara, HA Colorado",2020,1,group B.csv
+5.2,Properties of 3D Printed Concretes and Evaluation of Novel Nanoscale Inclusions for Their Enhancement,S Surehali,2025,1,group B.csv
+5.2,Tolerance of lattice struts manufactured without supports via fused filament fabrication,"L Robles-Lorite, A García-Collado…",2025,1,group B.csv
+5.2,Investigation on the Process Parameters of an Automated Wall Grinding Robotic System,"L Martua, MS Kurbanhusen",2022,1,group B.csv
+5.2,"Manufacturing system for additive production of components, and method","H Lindemann, R Gerbers, N Nolte…",2023,1,group B.csv
+5.2,Trajectory planning of collaborative robotic contact-based applications,"A Zaki, M AHMED",2023,1,group B.csv
+5.2,Predicting the rheological properties of super-plasticized concrete using modeling techniques. Materials 2022; 15: 5208,"MN Amin, A Ahmad, K Khan, W Ahmad, S Ehsan…",2022,1,group B.csv
+5.2,"Shotcrete 3D printed reinforced concrete beam: design, testing, and comparison against conventional cast reinforced concrete solution","B Sawicki, Z Chen, T Leusmann, H Kloft",2026,1,group C.csv
+5.2,Robot-Guided End Effector for an Automated Finishing of Concrete Free-Form Surfaces,"M David, K Dröder",2024,0,group B.csv
+5.2,Power floating plastic-state concrete for additive manufacturing applications,S Lei,2025,0,group B.csv
+5.2,Study of Interlayer Adhesion and Development of Reinforcing Methods for 3D Concrete Printing,TA Marchment,2021,0,group B.csv
+5.2,"A comprehensive review of 3D printing in construction: technology, materials, and digital workflow","PK Dubey, MC Maurya",2026,0,group B.csv
+5.2,Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction: Current Status and Future Prospects,"BK Shukla, G Bharti, B Parashar, PK Sharma…",2025,0,group B.csv
+5.2,Towards Smart Construction: Development of An Automated Small Scale 3D Concrete Printer,"AAM Musathik, MHM Ashfak, M Arif…",2025,0,group B.csv
+5.2,Experimental data–driven framework for quality control of 3D-printed concrete permanent formworks,"TK Kim, S Oh, J Lee, S Choi, CS Shim",2025,0,group B.csv
+5.2,WORK BREAKDOWN STRUCTURE AND CONSTRUCTION PROCESS FRAMEWORK FOR A HYBRID 3D-PRINTED MODULAR BUILDING,"D Mustika Sari, MA Berawi, D Gunawan Saroji, P Miraj…",2025,0,group B.csv
+5.2,Exploration of the advancements and potential of 3DCP,"R Berweiler, S Saleh",2024,0,group B.csv
+5.2,An additive manufacturing-oriented design approach for digital construction,"A Sahu, B Panda",2025,0,group B.csv
+5.2,Multi Objective Parameters Optimisation of Kenaf Cementitious Composites Material for 3D Printing Applications,MSBA Bakar,2023,0,group B.csv
+5.2,Low-clay soil as fine aggregate in 3D printed concrete: insights into fresh and hardened properties,"S Kumar, A Kumar, A Pundir, A Dwivedi…",2025,0,group B.csv
+5.2,Diffusion of Innovation: A Systematic Literature Review of 3D Printing in Construction,"A Palazzo, U Michel-Schneider",2025,0,group B.csv
+5.2,"Superplastificant, and Calcium","LA Vergara, HA Colorado",2020,0,group B.csv
+5.2,Robotic knitcrete,"P Rennen, S Gantner, G Dielemans, L Bleker…",2023,0,group B.csv
+5.2,Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures,"R Dörrie, M Megnet, M David, K Dröder…",2025,0,group B.csv
+5.2,Application of 3D printing technology in prefabricated buildings,"D Yan, M Dou, J Yang, S Zou…",2023,0,group B.csv
+5.2,Optimization of Printing Parameters Based on Computational Fluid Dynamics (CFD) for Uniform Filament Mass Distribution at Corners in 3D Cementitious …,"Z Liu, L Si, Y Liu, M Li, TN Wong",2025,0,group B.csv
+5.2,Suction Anchors and Their Methods of Manufacture,JR Cotrell,2026,0,group B.csv
+5.2,Civil Additive Manufacturing: Foundations and Frontiers of the Modern Construction Industry,"A Kaur, C Lee, S Kulkarni, M Code, U Chadha",2025,0,group B.csv
+5.2,"Use of automated control machining tools for design, construction, and testing with hydraulic physical models","A Muralha, S Amaral, N Aido, R Jónatas…",2022,0,group B.csv
+5.2,Additive manufacturing in skin systems: trends and future,"R Naboni¹, N Jakica",2021,0,group B.csv
+5.2,3D Additive Construction,"EE Dikel, L Arbuckle",2024,0,group B.csv
+5.2,Additive Manufacturing for the Circular,"K Chadha, A Dubor, E Cabay, Y Tayoun…",2024,0,group B.csv
+5.2,A Design-To-Fabrication Workflow for 3D Printing Reinforced Architectural Beams and Façade Panels,"ZS Nwokediegwu, AO Bankole, SE Okiye",2025,0,group B.csv
+5.2,Materials Today Sustainability,"S Qaidi, A Yahia, BA Tayeh, H Unis, R Faraj…",2022,0,group B.csv
+5.2,Additive Manufacturing of Natural Materials as a Multidisciplinary Approach in Engineering Education,"HA Colorado, EI Gutierrez…",2022,0,group B.csv
+5.2,Composition and production method for 3D printing construction material,"P Brevnov, G Kirsankina, P Nezhny…",2024,0,group B.csv
+5.2,Challenges and Ethical Considerations in 3D Printing Technology,"T Mallamma, P Goudanavar, P Nayak…",2025,0,group B.csv
+5.2,Experimental and Machine Learning Approaches to Comprehending Surface Characteristics and Mechanical Properties of Direct Metal Laser Sintering …,T Sakib,2023,0,group B.csv
+5.2,"DESIGN, STRUCTURAL ANALYSIS, AND FABRICATION OF A PORTABLE CEMENT SPRAYING CHAMBER FOR CONSTRUCTION APPLICATIONS",AK Kundu,2025,0,group B.csv
+5.2,Valorization of a hazardous waste with 3D-printing: Combination of kaolin clay and electric arc furnace dust from the steel making industry,"EF Ordoñez Ordoñez, HA Colorado Lopera…",2022,0,group B.csv
+5.2,CCC 2022,"A Housing, B Everett, J Soto…",2022,0,group B.csv
+5.2,TOLEGENOVA AIGERIM KAIRATOVNA,K Akmalaiuly,2025,0,group B.csv
+5.2,"Toward a holistic approach for design for additive manufacturing: a perspective on challenges, practical insights, and research needs","A Kantaros, T Ganetsos, E Pallis…",2025,0,group B.csv
+5.2,"Eklemeli imalatla üretilen parçanın ikincil işlemleri, topoloji optimizasyonu ve incelenmesi",AY Özyılmaz,2025,0,group B.csv
+5.2,in Shotcrete 3D Printing Through Green State,"RDH Kloft, B Sawicki¹, N Freund",2024,0,group C.csv
+5.2,Physics-based particle system modeling of shotcrete process for robotic placement,"MR Yazdi Samadi, R Waspe, C Schlette",2025,0,group C.csv
+Unclassified,Construction 4.0,"A Sawhney, M Riley, J Irizarry…",2020,470,group C.csv
+Unclassified,BIM-enabled computerized design and digital fabrication of industrialized buildings: A case study,"R He, M Li, VJL Gan, J Ma",2021,273,group C.csv
+Unclassified,Aerial additive manufacturing with multiple autonomous robots,"K Zhang, P Chermprayong, F Xiao, D Tzoumanikas…",2022,264,group C.csv
+Unclassified,Interlayer reinforcement of 3D printed concrete by the in-process deposition of U-nails,"L Wang, G Ma, T Liu, R Buswell, Z Li",2021,204,group C.csv
+Unclassified,"Cloud manufacturing, internet of things-assisted manufacturing and 3D printing technology: reliable tools for sustainable construction","R Singh, A Gehlot, SV Akram, LR Gupta, MK Jena…",2021,139,group A.csv
+Unclassified,3D printing of curved concrete surfaces using Adaptable Membrane Formwork,"JH Lim, Y Weng, QC Pham",2020,102,group B.csv
+Unclassified,Recent developments and challenges of 3D-printed construction: A review of research fronts,"R Guamán-Rivera, A Martínez-Rocamora…",2022,99,group B.csv
+Unclassified,Achieving sustainability by additive manufacturing: a state-of-the-art review and perspectives,"J Su, WL Ng, J An, WY Yeong, CK Chua…",2024,83,group A.csv
+Unclassified,Industrial Robot-Integrated Fused Deposition Modelling for the 3D Printing Process,"TS Senthil, M Puviyarasan, SR Babu…",2023,82,group C.csv
+Unclassified,Geometric quality assurance for 3D concrete printing and hybrid construction manufacturing using a standardised test part for benchmarking capability,"R Buswell, J Xu, D De Becker, J Dobrzanski…",2022,74,group B.csv
+Unclassified,Additive manufacturing by means of parametric robot programming,"T Feucht, J Lange, M Erven, CB Costanzi…",2020,64,group A.csv
+Unclassified,Rotation nozzle and numerical simulation of mass distribution at corners in 3D cementitious material printing,"Z Liu, M Li, YWD Tay, Y Weng, TN Wong, MJ Tan",2020,61,group B.csv
+Unclassified,3D printing in materials manufacturing industry: A realm of Industry 4.0,"TS Tamir, G Xiong, Z Shen, J Leng, Q Fang, Y Yang…",2023,57,group A.csv
+Unclassified,Automation in the Construction of a 3D-Printed Concrete Wall with the Use of a Lintel Gripper,"M Hoffmann, S Skibicki, P Pankratow, A Zieliński…",2020,57,group A.csv
+Unclassified,A bibliometric indicators analysis of additive manufacturing research trends from 2010 to 2020,"R Jemghili, A Ait Taleb, M Khalifa",2021,53,group B.csv
+Unclassified,Fiber reinforced concrete for slabs without steel rebar reinforcement: Assessing the feasibility for 3D-printed individual houses,"NT Nguyen, TT Bui, QB Bui",2022,46,group B.csv
+Unclassified,Globally continuous hybrid path for extrusion-based additive manufacturing,"L Xia, G Ma, F Wang, G Bai, YM Xie, W Xu…",2022,45,group C.csv
+Unclassified,Cost analysis of various factors for geopolymer 3D printing of construction products in factories and on construction sites,"Q Munir, T Kärki",2021,43,group B.csv
+Unclassified,A new concept for large additive manufacturing in construction: tower crane-based 3D printing controlled by deep reinforcement learning,"F Parisi, V Sangiorgio, N Parisi, AM Mangini…",2024,38,group A.csv
+Unclassified,"Assimilation of 3D printing, Artificial Intelligence (AI) and Internet of Things (IoT) for the construction of eco-friendly intelligent homes: An explorative review","BS Alotaibi, AI Shema, AU Ibrahim, MA Abuhussain…",2024,38,group A.csv
+Unclassified,Industrializing precast productions: adaptive modularized constructions made in a flux,"P Mark, G Lanza, D Lordick, A Albers…",2021,38,group A.csv
+Unclassified,Simplified assessment for one-part 3D-printable geopolymer concrete based on slump and slump flow measurements,"MV Tran, TH Vu, THY Nguyen",2023,35,group B.csv
+Unclassified,Extrusion nozzle shaping for improved 3DP of engineered cementitious composites (ECC/SHCC),"W McGee, TY Ng, K Yu, VC Li",2020,35,group B.csv
+Unclassified,TRR 277: Additive manufacturing in construction,"H Kloft, C Gehlen, K Dörfler, N Hack…",2021,34,group A.csv
+Unclassified,Concrete additive manufacturing in construction: integration based on component-related fabrication strategies,"G Placzek, P Schwerdtner",2023,33,group C.csv
+Unclassified,3D printing effect on the compressive strength of concrete structures,"A Aramburu, I Calderon-Uriszar-Aldaca…",2022,32,group B.csv
+Unclassified,Digital design and fabrication of clay formwork for concrete casting,"S Mozaffari, M Bruce, G Clune, R Xie, W McGee…",2023,31,group C.csv
+Unclassified,Environmental profile of 3D concrete printing technology in desert areas via life cycle assessment,"RC Zhang, L Wang, X Xue, GW Ma",2023,30,group C.csv
+Unclassified,Sustainability and 3D concrete printing: identifying a need for a more holistic approach to assessing environmental impacts,"K Heywood, P Nicholas",2023,29,group A.csv
+Unclassified,Wet casting of multiple mix horizontally layered concrete elements,"A Brault, JM Lees",2020,29,group B.csv
+Unclassified,New era towards autonomous additive manufacturing: a review of recent trends and future perspectives,"H Fan, C Liu, S Bian, C Ma, J Huang…",2025,28,group A.csv
+Unclassified,Effect of coarse aggregate content on the rheological and buildability properties of 3D printable concrete,"A Sasikumar, D Balasubramanian…",2023,28,group B.csv
+Unclassified,Energy system and resource utilization in space: A state-of-the-art review,"W Wu, J Shen, H Kong, Y Yang, E Ren, Z Liu…",2024,28,group C.csv
+Unclassified,The 3D printing challenge in buildings,"S Pessoa, AS Guimarães",2020,26,group A.csv
+Unclassified,Global perspective and African outlook on additive manufacturing research− an overview,"DEP Klenam, OS Bamisaye, IE Williams…",2022,26,group A.csv
+Unclassified,Experimental and numerical assessments of new concrete dry connections concerning potentials of robotic CNC manufacturing technique,"A Baghdadi, L Ledderose, S Ameri, H Kloft",2023,26,group C.csv
+Unclassified,Strategies towards large-scale 3D printing without size constraints,"Z Zuo, W De Corte, Y Huang, X Chen…",2024,25,group A.csv
+Unclassified,Environmentally responsive materials for building envelopes: a review on manufacturing and biomimicry-based approaches,"MDLÁ Ortega Del Rosario, K Beermann…",2023,25,group A.csv
+Unclassified,Additive manufacturing (3D Printing)-applied construction: Smart node system for an irregular building façade,"S Na, S Kim, S Moon",2022,25,group B.csv
+Unclassified,Physically distributed multi-robot coordination and collaboration in construction: a case study in long span coreless filament winding for fiber composites,"L Vasey, B Felbrich, M Prado, B Tahanzadeh…",2020,25,group C.csv
+Unclassified,Ten questions concerning the integration of digital fabrication techniques into the architectural design process,"A Gamal, B Nashaat, MM Shahda…",2024,24,group A.csv
+Unclassified,Advancements in optimizing mechanical performance of 3d printed polymer matrix composites via microstructural refinement and processing enhancements: A …,"TR Arunprasand, P Nallasamy",2025,22,group A.csv
+Unclassified,"Enablers, barriers, and critical success factors for effective adoption of color-jet 3D printing technology","A Haleem, M Javaid",2022,21,group B.csv
+Unclassified,Building information modeling (BIM) and robotic manufacturing technological interoperability in construction–a cyclic systematic literature review,"W Anane, I Iordanova…",2023,21,group C.csv
+Unclassified,RETRACTED: A newly-designed wearable robotic hand exoskeleton controlled by EMG signals and ROS embedded systems,"IB Abdallah, Y Bouteraa",2023,20,group A.csv
+Unclassified,"Circular, zero waste formwork-Sustainable and reusable systems for complex concrete elements","A Liebringshausen, P Eversmann, A Göbert",2023,20,group B.csv
+Unclassified,Large-scale hollow-core 3D printing (HC3DP): A polymer 3D printing technology for large-scale ultralightweight components,"M Leschok, L Reiter, B Dillenburger",2023,20,group C.csv
+Unclassified,"Additive manufacturing of architectural structures: An interplay between materials, systems, and design","S Nazarian, JP Duarte, SG Bilén, A Memari…",2020,17,group A.csv
+Unclassified,Additive manufacturing in skin systems: trends and future perspectives,"R Naboni, N Jakica",2022,16,group B.csv
+Unclassified,Experimental study on the possibilities of FDM direct colour printing and its implications on mechanical properties and surface quality of the resulting parts,"I Tamașag, C Suciu, I Beșliu-Băncescu…",2022,16,group B.csv
+Unclassified,"Exploring the potential for carrying capacity and reusability of 3D printed concrete bridges: Construction, dismantlement, and reconstruction of a box arch …","M Yang, C Li, H Liu, L Huo, X Yao, B Wang…",2024,16,group C.csv
+Unclassified,A guide for construction practitioners to integrate robotic systems in their construction applications,"SA Prieto, X Xu, B García de Soto",2024,16,group C.csv
+Unclassified,A path towards SDGs: investigation of the challenges in adopting 3D concrete Printing in India,"BT Shivendra, Shahaji, S Sharath Chandra, AK Singh…",2024,15,group A.csv
+Unclassified,"Smart Infrastructure and Additive Manufacturing: Synergies, Advantages, and Limitations","A Kantaros, P Zacharia, C Drosos, M Papoutsidakis…",2025,15,group C.csv
+Unclassified,Construction sector: IR 4.0 applications,"WS Alaloul, S Saad, AH Qureshi",2022,14,group A.csv
+Unclassified,Cost assessment framework for construction robots: comparative study of robotic and traditional construction,"B Sun, C Mao, T Wang, Z Li",2024,14,group B.csv
+Unclassified,Measurement of information loss and transfer impacts of technology systems in offsite construction processes,"Z Lei, M Sadiq Altaf, Z Cheng, H Liu…",2023,13,group C.csv
+Unclassified,Roles of robotics in architectural and engineering construction industries: review and future trends,"A Al Masri, BBF da Costa, D Vasco, D Boer…",2024,12,group A.csv
+Unclassified,Continuous cost improvement in construction: Theory and practice,"TS Omotayo, U Kulatunga, B Awuzie",2022,12,group A.csv
+Unclassified,Flow and deformation behaviors of cementitious materials through nozzles with different geometric parameters: Experimental and numerical approaches,"T Pan, R Guo, Y Jiang, X Ji, R Qi",2022,12,group B.csv
+Unclassified,Cost-effective concrete fabrication for large irregularly shaped architectural structures,"SY Wang, ST Liong, YS Gan, YT Sheng",2023,12,group C.csv
+Unclassified,"Exploring 3D printing potentials for sustainable, resilient, and affordable housing","B Everett, J Soto, P Bakhshi…",2022,11,group B.csv
+Unclassified,The potential for additive manufacturing to transform the construction industry,"SH Ghaffar, J Corker, P Mullett",2020,11,group B.csv
+Unclassified,"Circular Industrialized Construction: A Perspective Through Design for Manufacturing, Assembly, and Disassembly",H Hernández,2025,10,group A.csv
+Unclassified,AI-Driven Generative Design for Next-Generation 3D Concrete Printing in Architecture: State of the Art,"M Mirwais, M Adeel, AW Rahmani…",2025,9,group A.csv
+Unclassified,"Nanotechnology-Based Additive Manufacturing: Product Design, Properties, and Applications","K Deshmukh, SKK Pasha, KK Sadasivuni",2022,9,group B.csv
+Unclassified,Una revisión de plataformas robóticas para el sector de la construcción,YA Becerra Mora,2020,9,group B.csv
+Unclassified,Mechanical properties of 3D printed concrete: a RILEM TC 304-ADC interlaboratory study—approach and main results,"F Bos, C Menna, A Robens-Radermacher…",2025,8,group B.csv
+Unclassified,Performance Analysis of 3D Concrete Printing Processes through Discrete-Event Simulation,"E Forcael, P Martínez-Chabur, I Ramírez-Cifuentes…",2023,8,group C.csv
+Unclassified,Optimizing the three-dimensional multi-objective of feeder bus routes considering the timetable,"X Gao, S Liu, S Jiang, D Yu, Y Peng, X Ma, W Lin",2024,8,group C.csv
+Unclassified,Predictive modeling of the mechanical behavior of 3D-printed polylactic acid/wood composite: Comparison of GEP and ANN methods,"A Bhowmik, R Kumar, R MK, Y Karun Kumar, P Samal…",2025,7,group A.csv
+Unclassified,Advances in sustainable additive manufacturing: a systematic review for construction industry to mitigate greenhouse gas emissions,"OJ Oladunni, CKM Lee, ID Ibrahim…",2025,7,group A.csv
+Unclassified,Large scale 3D concrete printing: process and materials properties,DYW Tay,2020,7,group B.csv
+Unclassified,Determining the strength of 3D printed concrete with the modified slant shear test,"L Licciardello, AG Soto, W Kaufmann…",2025,7,group B.csv
+Unclassified,"Challenges, new approaches, and potential future paths for three-dimensional printing (3DP) in building project: A reviews",M Abdul-kareem,2025,6,group A.csv
+Unclassified,"A Comprehensive Review of Sustainable and Green Additive Manufacturing: Technologies, Practices, and Future Directions","SD Dipta, MM Rahman, MJ Ansari…",2025,6,group A.csv
+Unclassified,"Optimizing metal AM potential through DfAM: design, performance, and industrial impact","JM Costa, EW Sequeiros, D Figueiredo, AR Reis…",2024,6,group A.csv
+Unclassified,"EASEC16: Proceedings of The 16th East Asian-Pacific Conference on Structural Engineering and Construction, 2019","CM Wang, V Dao, S Kitipornchai",2020,6,group A.csv
+Unclassified,"Effect of copper mine tailings and copper slag on the hydration, microstructure, and mechanical property in Portland cement","H Zeng, S Ramanathan, HJ Kim",2025,6,group B.csv
+Unclassified,From factory to site—designing for industrial robots used in on-site construction,"D Luo, L Yu",2021,6,group C.csv
+Unclassified,"Industry 4.0 Technologies for Sustainable Transportation Projects: Applications, Trends, and Future Research Directions in Construction","B Abbasnejad, S Soltani, A Ahankoob, S Kaewunruen…",2025,6,group C.csv
+Unclassified,A systematic review of digital auxiliary technologies enabling human–robot collaboration in construction,"Z Wu, Q Liao, K Chen, MF Antwi-Afari…",2025,5,group C.csv
+Unclassified,Multi-material additive manufacturing: a computational design perspective,"X Yu, J Griffis, G Manogharan…",2025,5,group C.csv
+Unclassified,The status quo of 3D concrete printing: are we there yet?,R Wolfs,2023,4,group A.csv
+Unclassified,Material Extrusion,A Haghighi,2023,4,group A.csv
+Unclassified,A robotic construction simulation platform for light-weight prefabricated structures,A Zhu,2023,4,group A.csv
+Unclassified,Three-dimensional (3D) printing for building and construction,"M Li, X Zhang, YWD Tay, GHA Ting, B Lu, MJ Tan",2022,4,group B.csv
+Unclassified,3D printing in art: use of thermoplastics and ceramics—the current state and limitations resulting from the possibilities of technology,"RE Przekop, R Konieczna, J Głowacka…",2025,4,group B.csv
+Unclassified,Space-filling and print path generation methods for large-area 3D concrete printing pavements,"S Huang, W Xu, H Hu",2023,4,group C.csv
+Unclassified,Large-scale 3D printed model test on seepage distribution in water diversion tunnel and surrounding fractured rock,"Y Shao, G Ma, W Zhang",2025,4,group C.csv
+Unclassified,Exploring a design for robotic construction approach: two case studies matching robot and construction design features,"H Huang, C Brosque, A Tono, A Agrawal…",2023,4,group C.csv
+Unclassified,Shape Design of 3D-Concrete-Printed Masonry Structures,S Bhooshan,2023,4,group C.csv
+Unclassified,"A systematic review of robotic additive manufacturing applications in architecture, engineering, and construction","A Lopes de Aquino Brasil, A Carmo Pena Martinez",2025,3,group A.csv
+Unclassified,Research progress and trend analysis of solid waste resource utilization in geopolymer concrete,"J Wang, L Zhu, D Wan, Y Xue",2025,3,group A.csv
+Unclassified,"Standardization Aspects of Concrete 3D Printing: State of the art, requirements and first steps towards standardization",K Vasilic,2024,3,group A.csv
+Unclassified,Autonomous ecologies of construction: Collaborative modular robotic material eco-systems with deep multi-agent reinforcement learning,"T Hosmer, S Mutis, O Gheorghiu…",2024,3,group A.csv
+Unclassified,Creative Destruction and Constructing The Built Environment: From the first industrial revolution to the fourth,G De Valence,2022,3,group A.csv
+Unclassified,Implications for cost management analysis of new green building materials in the context of low-carbon economy: a critical review in China,"K Liao, M Zhang, H Zhang",2024,3,group A.csv
+Unclassified,Applications of additive manufacturing in construction and building industries,"B Mallikarjuna, MNS Hareeswar…",2023,3,group B.csv
+Unclassified,Investigating the potential of 3D concrete printing for unreinforced structures,A Hasani,2024,3,group C.csv
+Unclassified,Advances in Human-Robot Collaboration (HRC) in Construction 5.0 for Building Construction: A Bibliometric and Systematic Literature Review,G Garcés,2025,3,group C.csv
+Unclassified,Design of variable stiffness trajectories with cubic ferguson curve,"D Zhang, K Wang, X Wang",2023,3,group C.csv
+Unclassified,Concurrence of artificial intelligence and additive manufacturing: a bibliometric analysis,"G Nain, U Samal",2025,2,group A.csv
+Unclassified,A Proof-of-Concept Methodology for Identifying Topical Scientific Issues in New Publications Whose Citations Have Not Yet Been Established,B Chigarev,2024,2,group A.csv
+Unclassified,MetaIndux-PLC: A Control Logic-Guided LLM for PLC code generation in industrial control systems,"L Ren, H Wang, J Dong, H Wang, S Liu, Y Laili…",2025,2,group A.csv
+Unclassified,How 3D Printers for Houses Can Reduce CO 2 Emissions.,A Palazzo,2025,2,group B.csv
+Unclassified,Digital Transformation for Sustainable and Resilient Infrastructure: Current Progress and Future Potential,"MGM Patil, R Nayaka…",2024,2,group C.csv
+Unclassified,Optimizing and predicting additive manufacturing parameters using a variational autoencoder combined with data stratification,"TD Nguyen, TT Nguyen, CN Bui, HM Duong…",2026,1,group A.csv
+Unclassified,From 3D to 5D Printing: Additive Manufacturing of Functional Construction Materials,SS Lucas,2024,1,group B.csv
+Unclassified,Custom-made printheads empowering 3d printed Concrete: innovations in digital design and fabrication of complex prefabricated elements,"V Ruitinga, EC Avramiea",2023,1,group B.csv
+Unclassified,Market and application review of large scale additive manufacturing,A Eldho,2024,1,group B.csv
+Unclassified,Automated Multi-Material Fabrication of Buildings,FG da Silva Craveiro,2020,1,group B.csv
+Unclassified,A review of Industry 4.0 potential to accelerate the transition to a Circular Economy,I Irache Cabello,2020,1,group B.csv
+Unclassified,Design and Development of a Lean Robotic Cell for Concrete 3D Printing,"F Ramirez-Rodriguez, P Pancho, D Sanchez…",2025,1,group C.csv
+Unclassified,Human–robot collaboration in digital fabrication with concrete: quantifying productivity and psychophysiological strain of human workers,"B Sawicki, P Düking, G Placzek, L Masur, R Dörrie…",2026,1,group C.csv
+Unclassified,Latest development of 3D printing adopting recycled aggregate,"J Xiao, Z Duan",2023,1,group C.csv
+Unclassified,Characterization of steel components printed using WAAM technology,Z Al-Nabulsi,2021,1,group C.csv
+Unclassified,Automation and Industry 4.0 in Production Engineering: A Comprehensive Review,P Koul,2025,1,group C.csv
+Unclassified,"Artificial Intelligence in 3D Concrete Printing: A Review of Applications, Integration and Future Prospects","M El Mesoudy, R Foulki, D Amegouz…",2025,0,group A.csv
+Unclassified,"3D Printing Geopolymers: Process, Porosity, and Performance",AR Lori,2025,0,group A.csv
+Unclassified,Deep Filament Extraction for 3D Concrete Printing,"K Mawas, M Maboudi, P Achanccaray…",2025,0,group A.csv
+Unclassified,Selecting Industry 4.0 Technologies for Construction Activities Using Clustering Analysis and Text Mining,B Sadeghi,2024,0,group A.csv
+Unclassified,Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining,"Z Ke, Z Li, Z Chen, Y Xu, P Lin, C Li",2025,0,group A.csv
+Unclassified,Explainable bidirectional autoencoder framework for intelligent 3D printing parameter design under multi-objective constraints,"BN Mach, DTK Chi, HC Nguyen, TTN Quynh…",2026,0,group A.csv
+Unclassified,Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites,"M Rudziewicz, M Maroszek, M Hebda",2025,0,group A.csv
+Unclassified,Large Format Additive Manufacturing with Cement and Clay Applications,"J Teixeira, M Jesus, E Ribeiro, B Rangel…",2026,0,group A.csv
+Unclassified,"Bridging 3D-printed and Cast Concrete: A Review of Mechanical Bond Behavior, Composite Action, and Sustainable Protective Structures",G Mengesha,2025,0,group A.csv
+Unclassified,Contractors of the Future: Integrating Internet of Things and 3D Printing in the Liberian Construction Industry,"EM Karim, C Aigbavboa, K Otasowie",2025,0,group A.csv
+Unclassified,3D printing revolution: An in-depth analysis of additive manufacturing,"S Dixit, S Prakash, M Nizamuddin…",2025,0,group A.csv
+Unclassified,of Things and 3D Printing in the Liberian Construction Industry,"EMKC Aigbavboa, K Otasowie",2025,0,group A.csv
+Unclassified,The Impact of Industrial 3D Design on China's Manufacturing Efficiency,Z Wu,2025,0,group A.csv
+Unclassified,Implementation of Numerical Modeling and Simulation Approach for Performance Evaluation of 3D Printing Process in Biomedical and Construction …,R Imran,2023,0,group A.csv
+Unclassified,Assessment of Fresh and Hardened State Properties in Medium-scale 3D Printing of Earth-Cement Mixtures With and Without Jute Fibers,MVB Pérez,2025,0,group A.csv
+Unclassified,Advances in sustainable technologies for industry and environment for a greener future,JS Chatha,2025,0,group A.csv
+Unclassified,Layup table for composite fabrication with AI quality control modules,"MJ deFreese, J Crowe, J Loucks",2025,0,group A.csv
+Unclassified,"Additively Manufactured Smart Materials and Structures: Design, Processing, and Applications","R Velu, K Deshmukh, IF Ituarte, AK Subramaniyan",2025,0,group A.csv
+Unclassified,"Additive Manufacturing with Clay and Ceramics: Materials, Modeling, and Applications","RG Duque-Castro, DI Berrocal, MPM Nicole…",2025,0,group A.csv
+Unclassified,Environmental Impacts of Standardization Efforts in Additive Manufacturing,O Dos Anjos,2024,0,group A.csv
+Unclassified,Dynamic Analysis of Tapered Marine Outfall Pipe Resting on Sea Bottom Due to Wave Motion,"ME YİĞİT, B SOLMAZ, Ü GÖKKUŞ",2024,0,group A.csv
+Unclassified,A Literature Review on Affecting Factors and Future Outlook of Construction Productivity,"T HAN, S ISHIDA",2024,0,group A.csv
+Unclassified,Circular Economy,"A Yousaf, A Al Rashid, M Koç",2024,0,group A.csv
+Unclassified,"Advanced Manufacturing Technologies in Biomedical Science: Practical Applications, Case Studies, and Future Trends","J Singh, H Vasudev, C Prakash, M Singh",2025,0,group A.csv
+Unclassified,Systems and methods for composite fabrication with AI quality control modules,"MJ deFreese, J Crowe, J Loucks",2025,0,group A.csv
+Unclassified,Ply templating for composite fabrication with AI quality control modules,"MJ deFreese, J Crowe, J Loucks",2026,0,group A.csv
+Unclassified,Predicting mechanical properties of biodegradable PLA/Wood composites fabricated by 3D printing: a supervised learning approach,"N Bharat, D Veeman, V Kumar",2025,0,group A.csv
+Unclassified,HAADF-STEM and APT characterization on solute clustering and precipitation of Al-Cu-Mg based composites produced by additive manufacturing,J Li,2025,0,group A.csv
+Unclassified,Digital Innovation: a Database for Supporting Additive Manufacturing in the Portuguese Navy,RPOA Horta,2025,0,group A.csv
+Unclassified,Additive Manufacturing and Product Competencies,"A Al Fawal, AH Mawlawi, A Ashaal",2025,0,group A.csv
+Unclassified,Co-Authorship Form,AN House,2024,0,group A.csv
+Unclassified,and Product,A Ashaal,2024,0,group A.csv
+Unclassified,A slurry spread quantification system and a method for quantifying a slurry spread,"J Cantonnet, AR Da Costa, S Coquelin…",2023,0,group A.csv
+Unclassified,3D laserový profilometr jako senzor dat pro digitální dvojčata,G Michal,2020,0,group A.csv
+Unclassified,Integrated modeling of methane treatment systems: linking process performance to microbial function in methane biofiltration and anaerobic digestion,C Gonzalez Arango,2025,0,group A.csv
+Unclassified,Understanding Distant Galaxies with Flexible Nebular Emission Emulation and Spectral Energy Distribution Modeling,Y Li,2025,0,group A.csv
+Unclassified,Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction: A Case Study Analysis,"S Ataei, A Jafari",2026,0,group B.csv
+Unclassified,3D Concrete Printing: a new Era in Construction Industry,L Casagrande,2020,0,group B.csv
+Unclassified,Prototypical implementation of an additively manufactured modular ceiling and load-bearing capacity investigations of 3D-printed slab modules,FH Jan,2025,0,group B.csv
+Unclassified,CONSTRUCTION TECHNOLOGY BY ROBOTICS and 3D PRINTING,"KM Al-Qudaih, Ö Sevim",2022,0,group B.csv
+Unclassified,"A critical review of 3D printed fiber-based geopolymer concrete (3DP-FGC): fresh properties, mechanical performance, and current limitations","MM Hasan, J Xu, MN Uddin",2026,0,group B.csv
+Unclassified,Designing printing parameters for geopolymer concrete prepared from construction and demolition waste and industrial side streams,Q Munir,2023,0,group B.csv
+Unclassified,and Wing Fung Edmond Yau²,"SY Mak¹, KL Tam, CHB Yung",2021,0,group B.csv
+Unclassified,Additive manufacturing of functional polymers and nanocomposites: opportunities and challenges,"Y Agrawal, M Kushwaha, S Agarwal, S Khan",2025,0,group B.csv
+Unclassified,Additive manufacturing in the wind power industry,"LF Paiva, AA Fiocchi, AZ Guarato…",2025,0,group B.csv
+Unclassified,Biomimicry and additive manufacturing: from materials to functional structures,YL Tee,2024,0,group B.csv
+Unclassified,Evaluation of a Novel Method for Fused Deposition Modeling Wall Construction,BJ Dick,2025,0,group B.csv
+Unclassified,From plastic waste to,F Setaki,2023,0,group B.csv
+Unclassified,Marketing and potential application review of Large-Scale Additive Manufacturing,A Eldho,2025,0,group B.csv
+Unclassified,INTERIOR ARCHITECTURE,DAL Murat,2025,0,group B.csv
+Unclassified,Additive manufacturing and supply chain: a review of the state of the art,E Miao,2024,0,group B.csv
+Unclassified,Sustainability Assessment of Using Green Concrete Materials for Residential Buildings in Egypt,HAM Madi,2024,0,group B.csv
+Unclassified,Stimuli-Responsive Hydrogels for Improved Durability of Cementitious Materials,AN Aday,2021,0,group B.csv
+Unclassified,"1Department of Physics, Noorul Islam Center for Higher Education, Kanyakumari, Tamil Nadu, India, 2Department of Physics, Faculty of Science and …","S Shams, B Bindhu",2025,0,group B.csv
+Unclassified,Advanced Sliding Mode Control Strategy for High-Performance 3D Concrete Printing,"NT Trung Hieu, N Minh Trieu, D Tri Dung…",2025,0,group C.csv
+Unclassified,path and process based simulation approach of 3D concrete printing,V Ekanayaka,2025,0,group C.csv
+Unclassified,Modelling of meta-concrete structures manufactured by 3D printing,VV Nguyen,2024,0,group C.csv
+Unclassified,Toward Low-Carbon 3D Concrete Printing through Circular Construction and Waste Valorization,"X Mu, X Zhang, G He, KM Liew",2026,0,group C.csv
+Unclassified,Automated Fabrication of Single-Curved Carbon Textile-Reinforced Concrete Shells Using Extrusion-Based Printing,"T Neef, S Engel, S Müller, M Claßen…",2025,0,group C.csv
+Unclassified,SUSTAINABLE BUILDING TECHNOLOGY EVALUATION WITH THE FUZZY AHP METHOD IN 3D CONCRETE PRINTED BUILDING PRODUCTION,"Bİ Gökgöz, Ç Takva, SM Top, Ş Gebel…",2025,0,group C.csv
+Unclassified,Modelling the influence of nozzle geometry in 3D concrete printing,"M Huseyn-zada, H Huseynli",2024,0,group C.csv
+Unclassified,3D printed materials for open hardware robot,R Balachandran,2024,0,group C.csv
+Unclassified,Print Technique and Material Modification In 3D Printing of Concrete,A Tripathi,2024,0,group C.csv
+Unclassified,Investigating the performance of Larox filter cake integration in 3D concrete printing,KS Chinogureyi,2023,0,group C.csv
+Unclassified,3D-printed,"J Burger, E Lloret-Fritschi, F Gramazio…",2023,0,group C.csv
+Unclassified,Additive Manufacturing a Review of its Potential to Solve the Housing Challenge in Middle America,JLA Pineda Figueroa,2020,0,group C.csv
+Unclassified,From Factory to Site-Designing,"D Luo, L Yu",2021,0,group C.csv
+Unclassified,The suitability of implementing 3D printing construction towards Malaysian construction industry,"H Nasir, FM Yop Zain",2023,0,group C.csv
+Unclassified,A Review of Additive Manufacturing Effects on Architecture and Construction Industries.,"S Masoumi, A Masoumi",2024,0,group C.csv
+Unclassified,DOE-FIU Science &Technology Workforce Development Initiative,"R Gudavalli, DOE Fellows, UCAN DE-EM0005213",2024,0,group C.csv
+Unclassified,Control Modality and Accuracy on the Trust and Acceptance of Construction Robots,"D Lee, D Lee, JH Jung, T Park",2025,0,group C.csv
+Unclassified,Research on 3D Printing Efficiency of Sand Table Elements Based on FDM,"Q Deng, R Shi, F Chen, J Chao, S Liu",2020,0,group C.csv
+Unclassified,Industry 4.0 Technologies for Sustainable Transportation Projects,"B Abbasnejad, S Soltani, A Ahankoob, S Kaewunruen…",2025,0,group C.csv
+Unclassified,Integration of digital technologies in manufacturing: a survey of industry 4.0 applications and challenges,"M Choubey, S Mishra, S Bansal",2026,0,group C.csv
+Unclassified,Physics-Based Predictive Modeling of Gravity-Induced Sagging in Support-Free Pellet Additive Manufacturing,A Pricci,2025,0,group C.csv
+Unclassified,"From Invention to Innovation: Socio-technical Processes in the Adoption of Digital Fabrication to Architecture, Engineering and Construction Praxis",K Graser,2023,0,group C.csv
+Unclassified,Colaboração de robôs heterogêneos em ambiente de construção civil: uma proposta modular e integradora,MHN França,2024,0,group C.csv
+Unclassified,Ekonomické a environmentální aspekty 3D tiskáren pro domy,A Palazzo,2025,0,group C.csv
+Unclassified,Appended Publications,"MT Mollah, A Moetazedian, A Gleadall…",2023,0,group C.csv
+Unclassified,Research Article Analysis and Evaluation of CDPR Cable Sagging Based on ANFIS,"TP Tho, NT Thinh",2021,0,group C.csv
