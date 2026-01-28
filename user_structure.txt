@@ -1,0 +1,429 @@
+# Introduction & Background
+[Total: 7 papers]
+
+---
+
+## 1.1 Overview of 3D Concrete Printing
+[11 papers]
+
+```
+1.1.1 3DCP Overview & Trends
+[11 papers]
+
+  [470] Construction 4.0
+        (A Sawhney, 2020)
+
+  [273] BIM-enabled computerized design and digital fabrication of indust...
+        (R He, 2021)
+
+  [139] Cloud manufacturing, internet of things-assisted manufacturing an...
+        (R Singh, 2021)
+
+  [ 99] Recent developments and challenges of 3D-printed construction: A ...
+        (R Guamán-Rivera, 2022)
+
+  [ 83] Achieving sustainability by additive manufacturing: a state-of-th...
+        (J Su, 2024)
+
+  [ 57] 3D printing in materials manufacturing industry: A realm of Indus...
+        (TS Tamir, 2023)
+        
+  [259] 3D-printed concrete: Applications, performance, and challenges
+        (A Siddika, 2020)
+
+  [ 96] A Systematic Literature Review on Additive Manufacturing in the ...
+        (S Ponis, 2021)   
+        
+  [ 63] The viability and simplicity of 3D-Printed construction: A milita...
+        (J Jagoda, 2020)
+
+  [ 61] Framework of 3D concrete printing potential and challenges
+        (AK Al-Tamimi, 2023)   
+       
+  [ 29] Latest trend in building construction: Three-dimensional printing
+        (A Babbar, 2021)          
+```
+
+# 2. Hardware & Process Fundamentals
+[Total: 22 papers]
+
+---
+
+## 2.1 Hardware Systems & Kinematics
+[13 papers]
+
+```
+2.1.1 Cable-Driven & Parallel Robots
+[4 papers]
+
+  [ 86] Life cycle assessment of integrated additive–subtractive concrete...
+        (I Muñoz, 2021)
+
+  [  2] Accuracy of large-scale cable-driven parallel robot with universa...
+        (T Paty, 2021)
+
+        
+  [  0] 6-DOF Outdoor High-Load Robot for Solar Panel Array Installation:...
+        (S Li, 2025)
+        
+  [110] A review of cable-driven parallel robots: Typical configurations,...
+        (M Zarebidoki, 2022)
+
+2.1.2 Mobile & Autonomous Robots
+[5 papers]
+
+  [264] Aerial additive manufacturing with multiple autonomous robots
+        (K Zhang, 2022)
+
+  [ 27] Continuous mobile thin-layer on-site printing
+        (SE Jenny, 2023)
+
+  [ 24] A comprehensive performance evaluation of different mobile manipu...
+        (RG Rivera, 2020)
+
+  [  9] A continuous model for the simulation of manufacturing swarm robo...
+        (F Auricchio, 2022)
+
+  [ 17] Projector-guided non-holonomic mobile 3D printing
+        (X Xu, 2021)
+
+2.1.3 Manipulators & Kinematics
+[4 papers]
+
+  [ 82] Industrial Robot-Integrated Fused Deposition Modelling for the 3D...
+        (TS Senthil, 2023)
+
+  [  0] Energy Consumption Modeling for a Robot Arm in 3D Concrete Printi...
+        (T Liu, 2025)
+
+  [  0] Fusion reactor manipulator coupling error analysis and virtual-re...
+        (C Zuo, 2026)
+
+ 
+  [ 26] A review of the extruder system design for large-scale extrusion-...
+        (H Chen, 2023)
+```
+
+---
+
+## 2.2 Process Parameters & Rheology
+[8 papers]
+
+```
+2.2.1 Rheology & Flow Properties
+[5 papers]
+
+  [246] Influence of hydroxypropyl methylcellulose and silica fume on sta...
+        (C Liu, 2021)
+
+  [177] 3D printing of clay for decorative architectural applications: Ef...
+        (SSL Chan, 2020)
+
+  [ 28] Effect of coarse aggregate content on the rheological and buildab...
+        (A Sasikumar, 2023)
+
+  [312] 3D concrete printing: a systematic review of rheology, mix design...
+        (AU Rehman, 2021)
+
+[ 51] A compendious rheo-mechanical test for printability assessment of...
+        (S Cho, 2020)  
+
+2.2.2 Printability & Buildability
+[3 papers]
+
+  [  0] Evaluation of materials and additives on the printability and Bui...
+        (PHC Drumond, 2025)
+
+  [  0] Implementation of Numerical Modeling and Simulation Approach for ...
+        (R Imran, 2023)
+           
+ [ 61] Rotation nozzle and numerical simulation of mass distribution at ...
+        (Z Liu, 2020)
+```
+
+# 3. Intelligent Sensing Technologies
+[Total: 6 papers]
+
+---
+
+## 3.1 Sensing & Monitoring Systems
+[6 papers]
+
+```
+3.1.1 Vision & Camera Systems
+[2 papers]
+
+  [ 12] Geometrical quality inspection in 3D concrete printing using AI-a...
+        (W Cui, 2025)
+
+  [ 17] Projector-guided non-holonomic mobile 3D printing
+        (X Xu, 2021)
+
+3.1.2 Digital Twin & Virtual Monitoring
+[4 papers]
+
+  [ 18] Frontiers in construction 3D printing: self-monitoring, multi-rob...
+        (S Li, 2025
+
+  [  1] The Integration of 3d Printing, Artificial Intelligence and Inter...
+        (AI Shema, 2022)
+
+  [  0] The “New” Materiality of Reconstruction: On-Site Automated Recycl...
+        (R Ruggiero, 2026)
+
+  [  0] Establishing a conceptual framework for Construction Quality 4.0 ...
+        (S Gao, 2026)
+```
+
+# 4. AI-based Intelligence & Planning
+[Total: 29 papers]
+
+---
+
+## 4.1 AI-based Defect Diagnosis
+[9 papers]
+
+```
+4.1.1 Deep Learning & Neural Networks
+[1 papers]
+
+  [737] A review on machine learning in 3D printing: applications, potent...
+        (GD Goh, 2021)
+
+4.1.2 Machine Learning Methods
+[5 papers]
+
+  [203] Rapid surface defect identification for additive manufacturing wi...
+        (L Chen, 2021)
+
+  [ 86] Modelling and parameter optimization for filament deformation in ...
+        (Z Liu, 2020)
+
+  [ 69] Integrating real-time multi-resolution scanning and machine learn...
+        (P Nicholas, 2020)
+
+  [  1] Acoustic emission monitoring of the powder bed fusion process wit...
+        (M Ghayoomi Mohammadi, 2021)
+
+  [  0] Machine Learning in the Modeling of 3D Printed Soil-Cement Materi...
+        (M Fareghian, 2026)
+
+4.1.3 Defect Detection & Classification
+[1 papers]
+
+  [ 14] Surface finish classification using depth camera data
+        (V Frangez, 2021)
+
+4.1.4 Predictive Modeling & Diagnosis
+[2 papers]
+
+  [ 57] Concrete 3D printing: Process parameters for process control, mon...
+        (TKN Quah, 2023)
+
+  [ 13] Adaptive deposit compensation of construction materials in a 3D p...
+        (X Yang, 2022)
+       
+ 
+
+```
+
+---
+
+## 4.2 Intelligent Path Planning & Slicing
+[20 papers]
+
+```
+4.2.1 Toolpath Generation & G-code
+[10 papers]
+
+  [ 87] Toolpath-based design for 3D concrete printing of carbon-efficien...
+        (L Breseghello, 2022)
+
+  [ 64] Additive manufacturing by means of parametric robot programming
+        (T Feucht, 2020)
+
+  [ 39] A novel strategy for multi-part production in additive manufactur...
+        (J Jiang, 2020)
+
+  [ 21] Design and system considerations for construction-scale concrete ...
+        (NA Meisel, 2022)
+
+  [ 18] Fabrication information modeling: Interfacing building informatio...
+        (M Slepicka, 2022)
+
+  [  1] BIM integration in prefabricated additive construction projects, ...
+        (LM Henao-Rios, 2026)
+
+  [  0] Roadmap on Artificial Intelligence‐Augmented Additive Manufacturi...
+        (A Zolfagharian, 2026)
+    
+  [ 40] Integrated numerical modelling and deep learning for multi-layer ...
+        (K Ren, 2021) 
+        
+  [ 27] Task-consistent path planning for mobile 3d printing
+        (J Sustarevas, 2021)
+        
+  [ 37] A practical fabrication strategy for wire arc additive manufactur...
+        (Z Yu, 2021)           
+
+4.2.2 Non-planar & 3D Toolpaths
+[1 papers]
+
+  [102] 3D printing of curved concrete surfaces using Adaptable Membrane ...
+        (JH Lim, 2020)
+
+4.2.3 Trajectory Optimization
+[3 papers]
+
+  [ 45] Globally continuous hybrid path for extrusion-based additive manu...
+        (L Xia, 2022)
+
+  [ 44] On the impact of additive manufacturing processes complexity on m...
+        (P Stavropoulos, 2021)
+~~~~        
+  [ 30] Autonomous mobile 3D printing of large-scale trajectories
+        (J Sustarevas, 2022)
+~~~~
+
+4.2.4 Geometric & Structural Design
+[6 papers]
+
+  [168] Reinforcement strategies for 3D‐concrete‐printing
+        (H Kloft, 2020)
+
+  [144] Eggshell: ultra-thin three-dimensional printed formwork for concr...
+        (J Burger, 2020)
+
+  [ 59] Injection 3D concrete printing (I3DCP): Basic principles and case...
+        (N Hack, 2020)
+
+  [ 49] Constraints and limitations of concrete 3D printing in architectu...
+        (CH Ko, 2022)
+
+  [ 34] Topology optimisation of self-supporting structures based on the ...
+        (J Ye, 2023)
+
+  [ 33] Combined additive manufacturing techniques for adaptive coastline...
+        (R Dörrie, 2022)
+
+```
+
+# 5. Closed-loop Control & Finishing
+[Total: 36 papers]
+
+---
+
+## 5.1 Real-time Feedback Control
+[7 papers]
+
+```
+5.1.1 Closed-loop Process Control
+[2 papers]
+
+  [ 21] Proposal of a decoupled structure of fuzzy-pid controllers applie...
+        (M Carpio, 2021)
+
+  [  0] Buildability analysis in 3D concrete printing using computer visi...
+        (YC Kim, 2025)
+
+5.1.2 Extrusion & Flow Control
+[1 papers]
+
+  [ 51] Real-time toolpath planning and extrusion control (RTPEC) method ...
+        (PF Yuan, 2022)
+
+5.1.3 Real-time Adaptation & Compensation
+[1 papers]
+
+  [  0] Quality-centric digital twins in additive manufacturing: a review...
+        (MV Ehteshamfar, 2026)
+
+5.1.4 Quality Assurance & Inline Inspection
+[3 papers]
+
+  [ 74] Geometric quality assurance for 3D concrete printing and hybrid c...
+        (R Buswell, 2022)
+
+  [  1] Integration of laser profiler feedback into fim-based additive ma...
+        (S Espinosa, 2023)
+        
+  [ 56] Inspection methods for 3D concrete printing
+        (R Buswell, 2020)
+        
+  
+
+```
+
+---
+
+## 5.2 Automated Surface Finishing
+[18 papers]
+
+```
+5.2.1 Shotcrete 3D Printing (SC3DP)
+[9 papers]
+
+  [ 46] Development of A Robot-Based Multi-Directional Dynamic Fiber Wind...
+				(N Hack, 2021)
+  
+  [234] Influence of process parameters on the interlayer bond strength  ...
+				(H Kloft, 2020)
+				
+	[ 35] Modelling the influence of material and process parameters on S  ...
+	      (L Lachmayer, 2023)
+	
+	[  1] Shotcrete 3D printed reinforced concrete beam; design, testing,  ...
+			  (B Sawicki, 2026)
+	
+	[132] Shotcrete 3D Printing Technology for the Fabrication of Slender  ...
+			  (N Hack, 2020)
+	
+	[100] Shotcrete based 3D concrete printing; State of art, challenges,  ...
+				(F Heidarnezhad, 2022)
+	
+	[176] The Effect of Accelerator Dosage on Fresh Concrete Properties    ...
+				(I Dressler, 2020)
+	
+	[ 27] The effects of nozzle diameter and length on the resulting strand...
+				(M David, 2023)
+        
+
+5.2.2 Surface Finishing & Troweling
+[5 papers]
+
+	[ 46] Bibliographic analysis on 3D printing in the building and constru...
+			  (Q. Shahzad et al., 2022)
+			
+	[ 69] Large-Scale Automated Additive Construction: Overview, Robotic So...
+			  (M.R. Khosravani & A. Haghighi, 2022)
+
+	[ 64] Teams of robots in additive manufacturing: a review 
+			  (A. Alhijaily et al., 2023)
+		
+	[ 24] Adaptive Toolpath: Enhanced Design and Process Control for Roboti...
+			  (L. Breseghello & R. Naboni, 2022)
+
+	[  0] A comprehensive review of 3D printing in construction; technology...
+			  (M.C. Maurya & P.K. Dubey, 2026)
+			 
+				
+				
+~~~~5.2.3 Hybrid Manufacturing & Integration
+[4 papers]
+
+	[ 61] 3D Printing Devices and Reinforcing Techniques for Extruded Ceme ...
+				(X. Cao et al., 2022)
+
+	[ 57] Automation in the Construction of a 3D-Printed Concrete Wall with...
+			  (M. Hoffmann et al., 2020)
+
+	[  1] In-Situ vs. Prefab 3D Printing Considerations for CO2-free Pop-up...
+				(A. Aslaminezhad et al., 2024)
+
+	[204] Interlayer reinforcement of 3D printed concrete by the in-process...
+				(L. Wang et al., 2021)
+						
+```
+
+# 6. Conclusion
+[Reserved for conclusion - no papers assigned]
