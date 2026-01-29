@@ -1,8 +1,8 @@
 # NotebookLM을 활용한 서베이 논문 작성 매뉴얼
 
 **Last Updated:** 2026-01-29
-**Version:** 2.1
-**Total Papers:** 88편 (2020-2026)
+**Version:** 2.2
+**Total Papers:** 85편 (2020-2026)
 
 ---
 
@@ -37,9 +37,9 @@ AI가 방향을 잃지 않게 하려면 '지시서(Blueprint)'가 필요합니�
 ## **현재 확정 목차 (2026-01-29 기준)**
 
 ```
-1. Introduction & Background (10 papers)
+1. Introduction & Background (11 papers)
    └── 1.1 Overview of 3D Concrete Printing
-       └── 1.1.1 3DCP Overview & Trends: 10
+       └── 1.1.1 3DCP Overview & Trends: 11
 
 2. Robotic Platforms and Material Characterization (17 papers)
    ├── 2.1 Hardware Systems & Kinematics (11 papers)
@@ -50,14 +50,14 @@ AI가 방향을 잃지 않게 하려면 '지시서(Blueprint)'가 필요합니�
        ├── 2.2.1 Rheology & Flow Properties: 5
        └── 2.2.2 Printability & Buildability: 1
 
-3. Sensing and Digital Integration (6 papers)
-   └── 3.1 Sensing & Monitoring Systems (6 papers)
+3. Sensing and Digital Integration (4 papers)
+   └── 3.1 Sensing & Monitoring Systems (4 papers)
        ├── 3.1.1 Vision & Camera Systems: 2
-       └── 3.1.2 Digital Twin & Virtual Monitoring: 4
+       └── 3.1.2 Digital Twin & Virtual Monitoring: 2
 
-4. Computational Intelligence: From Design to Diagnosis (28 papers)
-   ├── 4.1 Intelligent Path Planning & Slicing (19 papers)  ← [설계/계획]
-   │   ├── 4.1.1 Toolpath Generation & G-code: 10
+4. Computational Intelligence: From Design to Diagnosis (26 papers)
+   ├── 4.1 Intelligent Path Planning & Slicing (17 papers)  ← [설계/계획]
+   │   ├── 4.1.1 Toolpath Generation & G-code: 7
    │   ├── 4.1.2 Non-planar & 3D Toolpaths: 1
    │   ├── 4.1.3 Trajectory Optimization: 2
    │   └── 4.1.4 Geometric & Structural Design: 6
@@ -67,16 +67,16 @@ AI가 방향을 잃지 않게 하려면 '지시서(Blueprint)'가 필요합니�
        ├── 4.2.3 Defect Detection & Classification: 1
        └── 4.2.4 Predictive Modeling & Diagnosis: 2
 
-5. Process Optimization and Advanced Fabrication Techniques (27 papers)
+5. Process Optimization and Advanced Fabrication Techniques (28 papers)
    ├── 5.1 Real-time Feedback Control (8 papers)
    │   ├── 5.1.1 Closed-loop Process Control: 2
    │   ├── 5.1.2 Extrusion & Flow Control: 2
    │   ├── 5.1.3 Real-time Adaptation & Compensation: 1
    │   └── 5.1.4 Quality Assurance & Inline Inspection: 3
-   └── 5.2 Shotcrete 3D Printing & Process Optimization (19 papers)
+   └── 5.2 Shotcrete 3D Printing & Process Optimization (20 papers)
        ├── 5.2.1 Shotcrete 3D Printing (SC3DP): 9
        ├── 5.2.2 Surface Finishing & Troweling: 5
-       └── 5.2.3 Hybrid Manufacturing & Integration: 5
+       └── 5.2.3 Hybrid Manufacturing & Integration: 6
 
 6. Conclusion
    └── 6.1 Summary & Future Directions
@@ -87,9 +87,9 @@ AI가 방향을 잃지 않게 하려면 '지시서(Blueprint)'가 필요합니�
 ## **현재 확정 목차 (한글)**
 
 ```
-1. 서론 및 배경 (10편)
+1. 서론 및 배경 (11편)
    └── 1.1 3D 콘크리트 프린팅 개요
-       └── 1.1.1 3DCP 개요 및 동향: 10편
+       └── 1.1.1 3DCP 개요 및 동향: 11편
 
 2. 로봇 플랫폼 및 재료 특성화 (17편)
    ├── 2.1 하드웨어 시스템 및 기구학 (11편)
@@ -100,14 +100,14 @@ AI가 방향을 잃지 않게 하려면 '지시서(Blueprint)'가 필요합니�
        ├── 2.2.1 레올로지 및 유동 특성: 5편
        └── 2.2.2 프린터빌리티 및 빌더빌리티: 1편
 
-3. 센싱 및 디지털 통합 (6편)
-   └── 3.1 센싱 및 모니터링 시스템 (6편)
+3. 센싱 및 디지털 통합 (4편)
+   └── 3.1 센싱 및 모니터링 시스템 (4편)
        ├── 3.1.1 비전 및 카메라 시스템: 2편
-       └── 3.1.2 디지털 트윈 및 가상 모니터링: 4편
+       └── 3.1.2 디지털 트윈 및 가상 모니터링: 2편
 
-4. 계산 지능: 설계에서 진단까지 (28편)
-   ├── 4.1 지능형 경로 계획 및 슬라이싱 (19편)  ← [설계/계획 단계]
-   │   ├── 4.1.1 툴패스 생성 및 G-code: 10편
+4. 계산 지능: 설계에서 진단까지 (26편)
+   ├── 4.1 지능형 경로 계획 및 슬라이싱 (17편)  ← [설계/계획 단계]
+   │   ├── 4.1.1 툴패스 생성 및 G-code: 7편
    │   ├── 4.1.2 비평면 및 3D 툴패스: 1편
    │   ├── 4.1.3 궤적 최적화: 2편
    │   └── 4.1.4 기하학적 및 구조적 설계: 6편
@@ -117,16 +117,16 @@ AI가 방향을 잃지 않게 하려면 '지시서(Blueprint)'가 필요합니�
        ├── 4.2.3 결함 탐지 및 분류: 1편
        └── 4.2.4 예측 모델링 및 진단: 2편
 
-5. 공정 최적화 및 고급 제조 기술 (27편)
+5. 공정 최적화 및 고급 제조 기술 (28편)
    ├── 5.1 실시간 피드백 제어 (8편)
    │   ├── 5.1.1 폐루프 공정 제어: 2편
    │   ├── 5.1.2 압출 및 유량 제어: 2편
    │   ├── 5.1.3 실시간 적응 및 보정: 1편
    │   └── 5.1.4 품질 보증 및 인라인 검사: 3편
-   └── 5.2 숏크리트 3D 프린팅 및 공정 최적화 (19편)
+   └── 5.2 숏크리트 3D 프린팅 및 공정 최적화 (20편)
        ├── 5.2.1 숏크리트 3D 프린팅 (SC3DP): 9편
        ├── 5.2.2 표면 마감 및 트로웰링: 5편
-       └── 5.2.3 하이브리드 제조 및 통합: 5편
+       └── 5.2.3 하이브리드 제조 및 통합: 6편
 
 6. 결론
    └── 6.1 요약 및 향후 연구 방향
@@ -136,12 +136,12 @@ AI가 방향을 잃지 않게 하려면 '지시서(Blueprint)'가 필요합니�
 
 | 섹션 | 주제 | 논문 수 |
 |------|------|---------|
-| 1장 | 서론 및 배경 | 10편 |
+| 1장 | 서론 및 배경 | 11편 |
 | 2장 | 로봇 플랫폼 및 재료 특성화 | 17편 |
-| 3장 | 센싱 및 디지털 통합 | 6편 |
-| 4장 | 계산 지능: 설계에서 진단까지 | 28편 |
-| 5장 | 공정 최적화 및 고급 제조 기술 | 27편 |
-| **총계** | | **88편** |
+| 3장 | 센싱 및 디지털 통합 | 4편 |
+| 4장 | 계산 지능: 설계에서 진단까지 | 26편 |
+| 5장 | 공정 최적화 및 고급 제조 기술 | 28편 |
+| **총계** | | **85편** |
 
 ---
 
@@ -575,13 +575,13 @@ Please provide the feedback in **Korean**, citing specific section numbers.
 | Section | Topic | Papers | Step 2 Keywords | Step 4 Writing Guide |
 |---------|-------|--------|-----------------|---------------------|
 | **3.1.1** | Vision & Camera Systems | 2 | computer vision, RGB camera, depth camera, RGB-D, real-time monitoring, image processing | List vision-based monitoring techniques (2D/3D) and analyze their effectiveness in detecting geometric deviations. |
-| **3.1.2** | Digital Twin & Virtual Monitoring | 4 | digital twin, BIM integration, virtual monitoring, IoT, cyber-physical systems | Describe the role of Digital Twins in synchronizing physical printing with virtual models for real-time process monitoring. |
+| **3.1.2** | Digital Twin & Virtual Monitoring | 2 | digital twin, BIM integration, virtual monitoring, IoT, cyber-physical systems | Describe the role of Digital Twins in synchronizing physical printing with virtual models for real-time process monitoring. |
 
 ### **Section 4: Computational Intelligence - From Design to Diagnosis**
 
 | Section | Topic | Papers | Step 2 Keywords | Step 4 Writing Guide |
 |---------|-------|--------|-----------------|---------------------|
-| **4.1.1** | Toolpath Generation & G-code | 10 | toolpath generation, slicing algorithm, G-code, layer deposition path, BIM integration | Explain the workflow from 3D model to G-code, focusing on slicing algorithms specific to concrete printing constraints. |
+| **4.1.1** | Toolpath Generation & G-code | 7 | toolpath generation, slicing algorithm, G-code, layer deposition path, BIM integration | Explain the workflow from 3D model to G-code, focusing on slicing algorithms specific to concrete printing constraints. |
 | **4.1.2** | Non-planar & 3D Toolpaths | 1 | non-planar slicing, curved layers, conformal printing, 3D toolpath, support-free | Discuss the benefits of non-planar (curved) slicing for structural strength and surface quality compared to flat slicing. |
 | **4.1.3** | Trajectory Optimization | 2 | trajectory optimization, speed planning, cornering, smoothing, energy efficiency | Analyze optimization techniques for robot movement (speed, acceleration) to minimize print time and vibration. |
 | **4.1.4** | Geometric & Structural Design | 6 | topology optimization, DfAM, structural efficiency, reinforcement strategies, parametric design | Explain how Topology Optimization and DfAM principles are applied to create material-efficient 3DCP structures. |
@@ -600,7 +600,7 @@ Please provide the feedback in **Korean**, citing specific section numbers.
 | **5.1.4** | Quality Assurance & Inline Inspection | 3 | quality assurance, inline inspection, tolerance checking, automated QC, verification | Discuss integrated systems for continuous quality verification during the printing process. |
 | **5.2.1** | Shotcrete 3D Printing (SC3DP) | 9 | shotcrete 3D printing, SC3DP, spraying, high velocity deposition, reinforcement | Explain the SC3DP process (spraying vs. extrusion) and its advantages for reinforcement integration and surface quality. |
 | **5.2.2** | Surface Finishing & Troweling | 5 | automated troweling, surface smoothing, post-processing, surface roughness, finishing tool | Describe automated troweling and smoothing mechanisms integrated into the printing head or as a separate step. |
-| **5.2.3** | Hybrid Manufacturing & Integration | 4 | hybrid manufacturing, additive-subtractive, milling, machining, integrated reinforcement | Discuss hybrid systems that combine additive (printing) and subtractive (milling) processes for high-precision finishing. |
+| **5.2.3** | Hybrid Manufacturing & Integration | 6 | hybrid manufacturing, additive-subtractive, milling, machining, integrated reinforcement | Discuss hybrid systems that combine additive (printing) and subtractive (milling) processes for high-precision finishing. |
 
 ---
 
@@ -641,6 +641,7 @@ Please provide the feedback in **Korean**, citing specific section numbers.
 | 1.0 | 2026-01-26 | Initial manual |
 | 2.0 | 2026-01-29 | Updated section titles, swapped 4.1↔4.2, added Steps 1.5/3/4.5, added Gap Analysis, added progress checklist |
 | 2.1 | 2026-01-29 | Updated paper title, added Korean TOC, created Related_Surveys_Analysis.md |
+| 2.2 | 2026-01-29 | Excluded 2 metal AM papers, moved Roadmap paper to 1.1.1 (Total: 87→85 papers) |
 
 ---
 
