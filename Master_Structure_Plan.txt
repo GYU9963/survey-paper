@@ -1,27 +1,25 @@
 ================================================================================
 MASTER STRUCTURE PLAN
-Survey Paper: Intelligent Process Control in 3D Concrete Printing
-From Extrusion to Finishing
+Survey Paper: Intelligent Robotic 3D Concrete Printing
+From Computational Design to Process Control
 ================================================================================
 
-Last Updated: 2026-01-26
-Total References: 117 papers (2020-2026)
+Last Updated: 2026-01-29
+Total References: 88 papers (2020-2026)
 Target Journal: [To be determined]
 
 ================================================================================
 PAPER OVERVIEW & MOTIVATION
 ================================================================================
 
-This survey provides a comprehensive review of intelligent process control 
-technologies in 3D Concrete Printing (3DCP), spanning from material extrusion 
+This survey provides a comprehensive review of intelligent process control
+technologies in 3D Concrete Printing (3DCP), spanning from material extrusion
 to surface finishing. The paper systematically examines:
 
-  - Hardware systems and robotic platforms for 3DCP
-  - Process parameters affecting print quality
-  - Sensing and monitoring technologies
-  - AI-based diagnosis and path planning
-  - Closed-loop feedback control systems
-  - Automated surface finishing techniques
+  - Robotic platforms and material characterization for 3DCP
+  - Sensing and digital integration technologies
+  - Computational intelligence for design and diagnosis
+  - Process optimization and advanced fabrication techniques
 
 The key contribution is presenting an integrated view of how these technologies
 work together to enable autonomous, high-quality 3D concrete printing.
@@ -30,51 +28,49 @@ work together to enable autonomous, high-quality 3D concrete printing.
 COMPLETE PAPER STRUCTURE
 ================================================================================
 
-1. Introduction & Background (7 papers)
+1. Introduction & Background (10 papers)
    └── 1.1 Overview of 3D Concrete Printing
-       └── 1.1.1 3DCP Overview & Trends
+       └── 1.1.1 3DCP Overview & Trends: 10
 
-2. Hardware & Process Fundamentals (22 papers)
-   ├── 2.1 Hardware Systems & Kinematics (12 papers)
-   │   ├── 2.1.1 Cable-Driven & Parallel Robots
-   │   ├── 2.1.2 Mobile & Autonomous Robots
-   │   └── 2.1.3 Manipulators & Kinematics
+2. Robotic Platforms and Material Characterization (17 papers)
+   ├── 2.1 Hardware Systems & Kinematics (11 papers)
+   │   ├── 2.1.1 Cable-Driven & Parallel Robots: 2
+   │   ├── 2.1.2 Mobile & Autonomous Robots: 5
+   │   └── 2.1.3 Manipulators & Kinematics: 4
    │
-   └── 2.2 Process Parameters & Rheology (10 papers)
-       ├── 2.2.1 Rheology & Flow Properties
-       ├── 2.2.2 Printability & Buildability
-       ├── 2.2.3 Layer & Interlayer Properties
-       └── 2.2.4 Mix Design & Material Formulation
+   └── 2.2 Process Parameters & Rheology (6 papers)
+       ├── 2.2.1 Rheology & Flow Properties: 5
+       └── 2.2.2 Printability & Buildability: 1
 
-3. Intelligent Sensing Technologies (6 papers)
-   └── 3.1 Sensing & Monitoring Systems
-       ├── 3.1.1 Vision & Camera Systems
-       └── 3.1.2 Digital Twin & Virtual Monitoring
+3. Sensing and Digital Integration (6 papers)
+   └── 3.1 Sensing & Monitoring Systems (6 papers)
+       ├── 3.1.1 Vision & Camera Systems: 2
+       └── 3.1.2 Digital Twin & Virtual Monitoring: 4
 
-4. AI-based Intelligence & Planning (46 papers)
-   ├── 4.1 AI-based Defect Diagnosis (17 papers)
-   │   ├── 4.1.1 Deep Learning & Neural Networks
-   │   ├── 4.1.2 Machine Learning Methods
-   │   ├── 4.1.3 Defect Detection & Classification
-   │   └── 4.1.4 Predictive Modeling & Diagnosis
+4. Computational Intelligence: From Design to Diagnosis (28 papers)
+   ├── 4.1 Intelligent Path Planning & Slicing (19 papers)
+   │   ├── 4.1.1 Toolpath Generation & G-code: 10
+   │   ├── 4.1.2 Non-planar & 3D Toolpaths: 1
+   │   ├── 4.1.3 Trajectory Optimization: 2
+   │   └── 4.1.4 Geometric & Structural Design: 6
    │
-   └── 4.2 Intelligent Path Planning & Slicing (29 papers)
-       ├── 4.2.1 Toolpath Generation & G-code
-       ├── 4.2.2 Non-planar & 3D Toolpaths
-       ├── 4.2.3 Trajectory Optimization
-       └── 4.2.4 Geometric & Structural Design
+   └── 4.2 AI-based Defect Diagnosis (9 papers)
+       ├── 4.2.1 Deep Learning & Neural Networks: 1
+       ├── 4.2.2 Machine Learning Methods: 5
+       ├── 4.2.3 Defect Detection & Classification: 1
+       └── 4.2.4 Predictive Modeling & Diagnosis: 2
 
-5. Closed-loop Control & Finishing (36 papers)
-   ├── 5.1 Real-time Feedback Control (9 papers)
-   │   ├── 5.1.1 Closed-loop Process Control
-   │   ├── 5.1.2 Extrusion & Flow Control
-   │   ├── 5.1.3 Real-time Adaptation & Compensation
-   │   └── 5.1.4 Quality Assurance & Inline Inspection
+5. Process Optimization and Advanced Fabrication Techniques (27 papers)
+   ├── 5.1 Real-time Feedback Control (8 papers)
+   │   ├── 5.1.1 Closed-loop Process Control: 2
+   │   ├── 5.1.2 Extrusion & Flow Control: 2
+   │   ├── 5.1.3 Real-time Adaptation & Compensation: 1
+   │   └── 5.1.4 Quality Assurance & Inline Inspection: 3
    │
-   └── 5.2 Automated Surface Finishing (27 papers)
-       ├── 5.2.1 Shotcrete 3D Printing (SC3DP)
-       ├── 5.2.2 Surface Finishing & Troweling
-       └── 5.2.3 Hybrid Manufacturing & Integration
+   └── 5.2 Shotcrete 3D Printing & Process Optimization (19 papers)
+       ├── 5.2.1 Shotcrete 3D Printing (SC3DP): 9
+       ├── 5.2.2 Surface Finishing & Troweling: 5
+       └── 5.2.3 Hybrid Manufacturing & Integration: 5
 
 6. Conclusion
    └── 6.1 Summary & Future Directions
@@ -98,14 +94,14 @@ Key Points to Cover:
 Writing Style: Broad perspective, accessible to readers new to 3DCP.
 
 Connection to Other Sections:
-  → Leads into Section 2 (fundamental hardware and process knowledge)
+  → Leads into Section 2 (fundamental hardware and material knowledge)
   → Motivates the need for Sections 3-5 (intelligent technologies)
 
 --------------------------------------------------------------------------------
-SECTION 2: HARDWARE & PROCESS FUNDAMENTALS
+SECTION 2: ROBOTIC PLATFORMS AND MATERIAL CHARACTERIZATION
 --------------------------------------------------------------------------------
-Purpose: Establish the physical foundation - what hardware exists and what 
-         process parameters affect printing quality.
+Purpose: Establish the physical foundation - what hardware exists and what
+         material/process parameters affect printing quality.
 
 --- 2.1 Hardware Systems & Kinematics ---
 
@@ -138,24 +134,17 @@ Focus: Material behavior and printing parameters.
   - Shape retention after deposition
   - Layer stability under self-weight
 
-2.2.3 Layer & Interlayer Properties
-  - Bond strength between layers
-  - Cold joint prevention
-
-2.2.4 Mix Design & Material Formulation
-  - Admixtures and additives
-  - Fiber reinforcement
-
 Connection to Other Sections:
   ← Section 1 provides motivation
   → Section 3 discusses how to monitor these parameters
-  → Section 4 uses AI to optimize these parameters
+  → Section 4 uses computational intelligence to optimize design and diagnose issues
   → Section 5 controls these parameters in real-time
 
 --------------------------------------------------------------------------------
-SECTION 3: INTELLIGENT SENSING TECHNOLOGIES
+SECTION 3: SENSING AND DIGITAL INTEGRATION
 --------------------------------------------------------------------------------
-Purpose: Review sensing modalities for monitoring the printing process.
+Purpose: Review sensing modalities and digital technologies for monitoring
+         the printing process.
 
 This section bridges hardware (Section 2) and intelligence (Section 4).
 Sensors provide the data needed for AI-based analysis and feedback control.
@@ -174,70 +163,75 @@ Sensors provide the data needed for AI-based analysis and feedback control.
 
 Connection to Other Sections:
   ← Section 2 defines what parameters to sense
-  → Section 4.1 processes sensor data with AI
+  → Section 4.2 processes sensor data with AI for diagnosis
   → Section 5.1 uses sensor data for feedback control
 
 --------------------------------------------------------------------------------
-SECTION 4: AI-BASED INTELLIGENCE & PLANNING
+SECTION 4: COMPUTATIONAL INTELLIGENCE: FROM DESIGN TO DIAGNOSIS
 --------------------------------------------------------------------------------
-Purpose: Review AI/ML techniques for diagnosis and planning in 3DCP.
+Purpose: Review computational and AI/ML techniques for design planning and
+         quality diagnosis in 3DCP.
 
-This is the "brain" of intelligent 3DCP - processing sensor data and making 
-intelligent decisions about toolpath and process parameters.
+This is the "brain" of intelligent 3DCP - from pre-process design/planning
+to in-process diagnosis. The section follows a logical flow from DESIGN
+(planning before printing) to DIAGNOSIS (monitoring during/after printing).
 
---- 4.1 AI-based Defect Diagnosis ---
+--- 4.1 Intelligent Path Planning & Slicing ---
 
-Focus: Using AI to detect and classify printing defects.
+Focus: Generating optimal toolpaths and designs for 3DCP.
 
-4.1.1 Deep Learning & Neural Networks
-  - CNNs for image-based defect detection
-  - Transformers and advanced architectures
-
-4.1.2 Machine Learning Methods
-  - SVM, Random Forest for classification
-  - Traditional ML approaches
-
-4.1.3 Defect Detection & Classification
-  - Types of defects: voids, cracks, surface defects
-  - Automated inspection systems
-
-4.1.4 Predictive Modeling & Diagnosis
-  - Predicting print quality from parameters
-  - Process-property relationships
-
---- 4.2 Intelligent Path Planning & Slicing ---
-
-Focus: Generating optimal toolpaths for 3DCP.
-
-4.2.1 Toolpath Generation & G-code
+4.1.1 Toolpath Generation & G-code
   - Slicing algorithms for 3DCP
   - G-code generation and optimization
+  - BIM integration for fabrication
 
-4.2.2 Non-planar & 3D Toolpaths
+4.1.2 Non-planar & 3D Toolpaths
   - Curved layer printing
   - Conformal slicing for complex geometries
 
-4.2.3 Trajectory Optimization
+4.1.3 Trajectory Optimization
   - Minimizing print time and energy
   - Smooth motion planning
 
-4.2.4 Geometric & Structural Design
+4.1.4 Geometric & Structural Design
   - Topology optimization for 3DCP
   - Design for additive manufacturing
+  - Reinforcement strategies
+
+--- 4.2 AI-based Defect Diagnosis ---
+
+Focus: Using AI to detect and classify printing defects.
+
+4.2.1 Deep Learning & Neural Networks
+  - CNNs for image-based defect detection
+  - Transformers and advanced architectures
+
+4.2.2 Machine Learning Methods
+  - SVM, Random Forest for classification
+  - Traditional ML approaches
+
+4.2.3 Defect Detection & Classification
+  - Types of defects: voids, cracks, surface defects
+  - Automated inspection systems
+
+4.2.4 Predictive Modeling & Diagnosis
+  - Predicting print quality from parameters
+  - Process-property relationships
 
 Connection to Other Sections:
   ← Section 3 provides sensor data for diagnosis
   ← Section 2 defines constraints (hardware, materials)
-  → Section 5.1 implements AI recommendations via control
-  → Section 5.2 path planning affects surface finish
+  → Section 5.1 implements recommendations via feedback control
+  → Section 5.2 path planning affects surface finish quality
 
 --------------------------------------------------------------------------------
-SECTION 5: CLOSED-LOOP CONTROL & FINISHING
+SECTION 5: PROCESS OPTIMIZATION AND ADVANCED FABRICATION TECHNIQUES
 --------------------------------------------------------------------------------
-Purpose: Review feedback control systems and surface finishing techniques.
+Purpose: Review feedback control systems and advanced fabrication techniques
+         including shotcrete-based methods.
 
 This section represents the "action" phase - taking decisions from Section 4
-and implementing them through control systems and post-processing.
+and implementing them through control systems and specialized fabrication.
 
 --- 5.1 Real-time Feedback Control ---
 
@@ -259,13 +253,14 @@ Focus: Closed-loop control for process quality.
   - In-process quality verification
   - Tolerance checking
 
---- 5.2 Automated Surface Finishing ---
+--- 5.2 Shotcrete 3D Printing & Process Optimization ---
 
-Focus: Post-processing and surface quality improvement.
+Focus: Shotcrete-based fabrication and process optimization techniques.
 
 5.2.1 Shotcrete 3D Printing (SC3DP)
   - Spray-based deposition
   - High surface quality through projection
+  - Process parameter optimization
 
 5.2.2 Surface Finishing & Troweling
   - Automated troweling systems
@@ -277,7 +272,7 @@ Focus: Post-processing and surface quality improvement.
 
 Connection to Other Sections:
   ← Section 3 provides sensor feedback
-  ← Section 4 provides AI-based decisions
+  ← Section 4 provides AI-based decisions and optimal designs
   ← Section 2 defines process constraints
   → Section 6 summarizes achievements and gaps
 
@@ -304,7 +299,7 @@ WRITING GUIDELINES FOR EACH SUB-SUB SECTION
 When writing each sub-sub section (e.g., 4.1.2):
 
 1. START with context:
-   "Within the broader scope of [parent section purpose], this subsection 
+   "Within the broader scope of [parent section purpose], this subsection
    focuses on [specific topic]..."
 
 2. STRUCTURE the content:
@@ -332,19 +327,20 @@ The paper follows a logical flow from FOUNDATION to APPLICATION:
         │
         ▼ "What is 3DCP and why does it need intelligent control?"
         │
-  [2. Hardware & Process]
+  [2. Robotic Platforms & Materials]
         │
-        ▼ "What are the physical systems and parameters?"
+        ▼ "What are the physical systems and material parameters?"
         │
-  [3. Sensing]
+  [3. Sensing & Digital Integration]
         │
-        ▼ "How do we monitor the process?"
+        ▼ "How do we monitor the process digitally?"
         │
-  [4. AI & Planning]
+  [4. Computational Intelligence]
         │
-        ▼ "How do we analyze data and make decisions?"
+        ▼ "How do we design optimally and diagnose issues?"
+        │   (Design → Diagnosis flow)
         │
-  [5. Control & Finishing]
+  [5. Process Optimization & Fabrication]
         │
         ▼ "How do we implement control and achieve quality?"
         │
